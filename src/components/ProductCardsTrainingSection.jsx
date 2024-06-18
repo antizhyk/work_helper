@@ -18,7 +18,7 @@ function ProductCardsTrainingSection() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('/data.json');
+        const response = await fetch('/product.json');
         const jsonData = await response.json();
         setData(jsonData);
         // Викликаємо getRandomProduct після встановлення data
