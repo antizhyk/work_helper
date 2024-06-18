@@ -101,11 +101,48 @@ function ProductAndCondimentsCardsTrainingSection() {
   };
 
   const getCorrectCondiments = (productTitle) => {
-    // This function should return the correct condiments for a given product title.
-    // Here, you need to implement the logic for determining the correct condiments
-    // based on the product title. For simplicity, this example returns an empty array.
-    return []; // Replace this with actual logic
-  };
+  const condiments = [];
+
+  const isDrink = productTitle.includes("МІЛКШЕЙК") || productTitle.toLowerCase().includes("коктейль") || productTitle.toLowerCase().includes("напій");
+  const isChickenDish = productTitle.toLowerCase().includes("кур") || productTitle.toLowerCase().includes("бакет");
+  const isDessert = productTitle.toLowerCase().includes("морозиво") || productTitle.toLowerCase().includes("чізкейк");
+  const isHotDrink = productTitle.toLowerCase().includes("гарячий напій") || productTitle.toLowerCase().includes("чай") || productTitle.toLowerCase().includes("кава");
+
+  if (!isDrink) {
+    condiments.push("Серветки паперові");
+  }
+
+  if (isHotDrink && !productTitle.toLowerCase().includes("сироп")) {
+    condiments.push("Цукор");
+  }
+
+  if (productTitle.toLowerCase().includes("салат") || productTitle.toLowerCase().includes("чізкейк") || productTitle.toLowerCase().includes("байтс") || productTitle.toLowerCase().includes("філе")) {
+    condiments.push("Веделка");
+  }
+
+  if (isDessert) {
+    condiments.push("Чайна ложка");
+  }
+
+  if (productTitle.toLowerCase().includes("ланчбакет з філе")) {
+    condiments.push("Пластиковий ніж");
+  }
+
+  if (isHotDrink) {
+    condiments.push("Мішалка");
+  }
+
+  if (productTitle.toLowerCase().includes("холодний напій") || isDrink) {
+    condiments.push("Трубочка");
+  }
+
+  if (isChickenDish && !productTitle.toLowerCase().includes("байтс")) {
+    condiments.push("Серветка волога");
+  }
+
+  return condiments;
+};
+
 
   if (!currentProduct) {
     return <div>Loading...</div>;
