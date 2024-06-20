@@ -1,9 +1,10 @@
 import { BrowserRouter } from 'react-router-dom';
 import Box from '@mui/material/Box';
 import AppRoutes from './routes';
-import MainMenu from './components/MainMenu';
+import MainMenu from './components/MainMenu.jsx';
 
 function App() {
+
   return (
     <BrowserRouter>
       <Box

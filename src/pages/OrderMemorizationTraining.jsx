@@ -1,5 +1,5 @@
 import React from 'react';
-import OrderMemorizationTrainingSection from '../components/OrderMemorizationTrainingSection';
+import OrderMemorizationTrainingSection from '../components/orderСollection/OrderMemorizationTrainingSection';
 
 const OrderMemorizationTraining = () => {
   return <OrderMemorizationTrainingSection />;
