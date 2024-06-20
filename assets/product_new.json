@@ -2370,6 +2370,149 @@
         ]
     },
     {
+        "id": 2413,
+        "title": "1236",
+        "description": "<p>Наггетси 9 шт + Картопля Фрі стандарт + НАПОЇ ГАЗОВАНІ 0,5 (ПЕПСІ, МІРІНДІ АБО СЕВЕН АП)</p>",
+        "imgs": [
+            {
+                "large": "files/4046.jpg",
+                "medium": "files/medium/medium_4046.jpg",
+                "thumb": "files/thumbs/thumb_4046.jpg"
+            }
+        ],
+        "url": "product/1236",
+        "condiments": [
+            "napkins",
+            "wetNapkin",
+            "straw"
+        ],
+        "cats": [
+            2491
+        ]
+    },
+    {
+        "id": 2414,
+        "title": "1235",
+        "description": "<p>ТВИСТЕР + Капучино 0,3</p>",
+        "imgs": [
+            {
+                "large": "files/4045.jpg",
+                "medium": "files/medium/medium_4045.jpg",
+                "thumb": "files/thumbs/thumb_4045.jpg"
+            }
+        ],
+        "url": "product/1235",
+        "condiments": [
+            "napkins",
+            "sugar",
+            "stirrer"
+        ],
+        "cats": [
+            2491
+        ]
+    },
+    {
+        "id": 2415,
+        "title": "1233",
+        "description": "<p>Стріпси 5 шт + Картопля Фрі стандарт + НАПОЇ ГАЗОВАНІ 0,5 (ПЕПСІ, МІРІНДІ АБО СЕВЕН АП)</p>",
+        "imgs": [
+            {
+                "large": "files/4044.jpg",
+                "medium": "files/medium/medium_4044.jpg",
+                "thumb": "files/thumbs/thumb_4044.jpg"
+            }
+        ],
+        "url": "product/1233",
+        "condiments": [
+            "napkins",
+            "wetNapkin",
+            "straw"
+        ],
+        "cats": [
+            2491
+        ]
+    },
+    {
+        "id": 2416,
+        "title": "1228",
+        "description": "<p>2 Байтси з курячого філе + Фрі баскет</p>",
+        "imgs": [
+            {
+                "large": "files/4043.jpg",
+                "medium": "files/medium/medium_4043.jpg",
+                "thumb": "files/thumbs/thumb_4043.jpg"
+            }
+        ],
+        "url": "product/1228",
+        "condiments": [
+            "napkins",
+            "fork",
+            "wetNapkin"
+        ],
+        "cats": [
+            2491
+        ]
+    },
+    {
+        "id": 2417,
+        "title": "1225",
+        "description": "<p>Дабл Шефбургер Оригінальний + Картопля Фрі стандарт + НАПОЇ ГАЗОВАНІ 0,5 (ПЕПСІ, МІРІНДІ АБО СЕВЕН АП)</p>",
+        "imgs": [
+            {
+                "large": "files/4042.jpg",
+                "medium": "files/medium/medium_4042.jpg",
+                "thumb": "files/thumbs/thumb_4042.jpg"
+            }
+        ],
+        "url": "product/1225",
+        "condiments": [
+            "napkins",
+            "straw"
+        ],
+        "cats": [
+            2491
+        ]
+    },
+    {
+        "id": 2418,
+        "title": "1222",
+        "description": "<p>2 ШЕФБУРГЕР + 2 Картоплі Фрі стандарт + 2 НАПОЇ ГАЗОВАНІ 0,5 (ПЕПСІ, МІРІНДІ АБО СЕВЕН АП)</p>",
+        "imgs": [
+            {
+                "large": "files/4041.jpg",
+                "medium": "files/medium/medium_4041.jpg",
+                "thumb": "files/thumbs/thumb_4041.jpg"
+            }
+        ],
+        "url": "product/1222",
+        "condiments": [
+            "napkins",
+            "straw"
+        ],
+        "cats": [
+            2491
+        ]
+    },
+    {
+        "id": 2419,
+        "title": "1216",
+        "description": "<p>ТВИСТЕР ДЕ ЛЮКС ОРИГИНАЛЬНЫЙ СПЕШЛ + АЙ-ТВИСТЕР</p>",
+        "imgs": [
+            {
+                "large": "files/4040.jpg",
+                "medium": "files/medium/medium_4040.jpg",
+                "thumb": "files/thumbs/thumb_4040.jpg"
+            }
+        ],
+        "url": "product/1216",
+        "condiments": [
+            "napkins"
+        ],
+        "cats": [
+            2491
+        ]
+    },
+    {
         "id": 2296,
         "title": "БАКЕТ 8 ГОСТРИХ НІЖОК",
         "description": "<p><strong>8 ніжок обсмажених в хрусткій гострій паніровці.</strong></p>",
