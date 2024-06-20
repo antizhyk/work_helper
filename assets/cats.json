@@ -1,0 +1,1603 @@
+[
+    {
+      "id": 2225,
+      "permalink": "burgers-chefburger",
+      "visible": false,
+      "parent_id": 1400,
+      "color": null,
+      "title": "BURGERS | Chefburger",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2236,
+      "permalink": "hot-drinks-cappuccino-400ml",
+      "visible": false,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS| Cappuccino 0,4 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2244,
+      "permalink": "bucket-bucket-l",
+      "visible": false,
+      "parent_id": 1396,
+      "color": null,
+      "title": "BUCKETS| Bucket L",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2245,
+      "permalink": "bucket-bucket-m",
+      "visible": false,
+      "parent_id": 1396,
+      "color": null,
+      "title": "BUCKETS | Bucket M",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2246,
+      "permalink": "bucket-bucket-s",
+      "visible": false,
+      "parent_id": 1396,
+      "color": null,
+      "title": "BUCKETS | Bucket S",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2247,
+      "permalink": "bucket-bucket-8-drumsticks-spicy",
+      "visible": false,
+      "parent_id": 1396,
+      "color": null,
+      "title": "BUCKETS | Bucket 8 drumsticks spicy",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2248,
+      "permalink": "bucket-bucket-8-drumsticks",
+      "visible": false,
+      "parent_id": 1396,
+      "color": null,
+      "title": "BUCKETS | Bucket 8 drumsticks",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2249,
+      "permalink": "bucket-bucket-duet-spicy",
+      "visible": false,
+      "parent_id": 1396,
+      "color": null,
+      "title": "BUCKETS | Bucket Duet spicy",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2252,
+      "permalink": "bucket-sanders-bucket",
+      "visible": false,
+      "parent_id": 1396,
+      "color": null,
+      "title": "BUCKETS | Sanders Bucket",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2253,
+      "permalink": "milkshakes-milkshake-chocolate-nut-400ml",
+      "visible": false,
+      "parent_id": 1402,
+      "color": null,
+      "title": "MILKSHAKES | Milkshake chocolate-nut 0.4 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2254,
+      "permalink": "milkshakes-milkshake-strawberry-400ml",
+      "visible": false,
+      "parent_id": 1402,
+      "color": null,
+      "title": "MILKSHAKES | Milkshake strawberry 0.4 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2256,
+      "permalink": "milkshakes-milkshake-strawberry-300ml",
+      "visible": false,
+      "parent_id": 1402,
+      "color": null,
+      "title": "MILKSHAKES | Milkshake strawberry 0.3 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2272,
+      "permalink": "desserts-ice-cream-lion",
+      "visible": false,
+      "parent_id": 2451,
+      "color": null,
+      "title": "DESSERTS | Ice Cream Lion",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2276,
+      "permalink": "sauces-mustard-sauces",
+      "visible": false,
+      "parent_id": 1841,
+      "color": null,
+      "title": "SAUCES | Mustard sauce",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2277,
+      "permalink": "sauces-mayonnaise",
+      "visible": false,
+      "parent_id": 1841,
+      "color": null,
+      "title": "SAUCES | Mayonnaise",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2278,
+      "permalink": "sauces-barbecue-sauce",
+      "visible": false,
+      "parent_id": 1841,
+      "color": null,
+      "title": "SAUCES | Barbecue sauce",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2279,
+      "permalink": "sauces-tomato-ketchup",
+      "visible": false,
+      "parent_id": 1841,
+      "color": null,
+      "title": "SAUCES | Tomato ketchup",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2427,
+      "permalink": "desserts-donut-strawberry",
+      "visible": true,
+      "parent_id": 1406,
+      "color": null,
+      "title": "DESSERTS | Donut Strawberry",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2585,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2584,
+      "color": null,
+      "title": "SNACKS| Small French fries",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2586,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2584,
+      "color": null,
+      "title": "SNACKS| Standard French fries",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2587,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2584,
+      "color": null,
+      "title": "SNACKS| Bucket fries",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2588,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2584,
+      "color": null,
+      "title": "SNACKS| Homemade potatoes",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2589,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2584,
+      "color": null,
+      "title": "SNACKS| Cheese sticks",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 1416,
+      "permalink": "burgers-chefburger-spicy",
+      "visible": false,
+      "parent_id": 1400,
+      "color": null,
+      "title": "BURGERS | Chefburger Spicy",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2227,
+      "permalink": "twisters-boxmaster-spicy",
+      "visible": false,
+      "parent_id": 1804,
+      "color": null,
+      "title": "TWISTERS | Boxmaster spicy",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2228,
+      "permalink": "twisters-boxmaster",
+      "visible": false,
+      "parent_id": 1804,
+      "color": null,
+      "title": "TWISTER | Boxmaster",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2237,
+      "permalink": "hot-drinks-latte-400ml",
+      "visible": false,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Latte 0,4 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2404,
+      "permalink": "cold-drinks-seven-up-bottle",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Seven Up 0.5 l (bottle)",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2428,
+      "permalink": "desserts-donut-salted-caramel",
+      "visible": true,
+      "parent_id": 1406,
+      "color": null,
+      "title": "DESSERTS | Donut salted caramel",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2543,
+      "permalink": "promo",
+      "visible": true,
+      "parent_id": 0,
+      "color": null,
+      "title": "Новинки!",
+      "description": null,
+      "imgs": [
+        {
+          "large": "files/4303.svg",
+          "medium": "files/4303.svg",
+          "thumb": "files/4303.svg"
+        }
+      ],
+      "c2": null
+    },
+    {
+      "id": 2602,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 5 wigs menu",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2238,
+      "permalink": "hot-drinks-cappuccino-300ml",
+      "visible": false,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Cappuccino 0,3 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2426,
+      "permalink": "desserts-ice-cream-summer-fantasy",
+      "visible": true,
+      "parent_id": 2451,
+      "color": null,
+      "title": "DESSERTS | Ice-cream summer fantasy",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2601,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN |5 strips menu",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 1804,
+      "permalink": "twisters",
+      "visible": true,
+      "parent_id": 0,
+      "color": null,
+      "title": "Твістери",
+      "description": null,
+      "imgs": [
+        {
+          "large": "files/2528.svg",
+          "medium": "files/2528.svg",
+          "thumb": "files/2528.svg"
+        }
+      ],
+      "c2": null
+    },
+    {
+      "id": 2402,
+      "permalink": "cold-drinks-pepsi-bottle",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Pepsi 0.5 (bottle)",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2432,
+      "permalink": "desserts-summer-ice-cream",
+      "visible": true,
+      "parent_id": 2451,
+      "color": null,
+      "title": "DESSERTS | Summer ice-cream",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2433,
+      "permalink": "hot-drinks-latte-300ml",
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Latte 0,3 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2434,
+      "permalink": "hot-drinks-americano-300ml",
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Americano 0,3 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2435,
+      "permalink": "hot-drinks-cappuccino-200ml",
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Cappuccino 0.2 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2436,
+      "permalink": "hot-drinks-latte-200ml",
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Latte 0.2 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2437,
+      "permalink": "hot-drinks-americano-200ml",
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Americano 0.2 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2438,
+      "permalink": "hot-drinks-green-tea",
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Green tea",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2439,
+      "permalink": "hot-drinks-black-tea",
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Black tea",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2440,
+      "permalink": "hot-drinks-black-tea-bergamot",
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Black tea with bergamot",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2441,
+      "permalink": "hot-drinks-green-tea-mango",
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Green tea with mango",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2603,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN | 9 nuggets menu",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 1400,
+      "permalink": "burgers",
+      "visible": true,
+      "parent_id": 0,
+      "color": "#e80d4e",
+      "title": "Бургери",
+      "description": null,
+      "imgs": [
+        {
+          "large": "files/2529.svg",
+          "medium": "files/2529.svg",
+          "thumb": "files/2529.svg"
+        }
+      ],
+      "c2": null
+    },
+    {
+      "id": 2219,
+      "permalink": "chicken-bites-barbecue",
+      "visible": true,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN | Bites Barbecue",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2287,
+      "permalink": "sauces-curry-sauce",
+      "visible": false,
+      "parent_id": 1841,
+      "color": null,
+      "title": "SAUCES | Curry sauce",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2365,
+      "permalink": "twisters-twister-toasted-spicy",
+      "visible": true,
+      "parent_id": 1804,
+      "color": null,
+      "title": "TWISTER | Twister Toasted spicy",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2366,
+      "permalink": "twisters-twister-toasted",
+      "visible": true,
+      "parent_id": 1804,
+      "color": null,
+      "title": "TWISTER | Twister Toasted",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2367,
+      "permalink": "twisters-twister-junior-special",
+      "visible": true,
+      "parent_id": 1804,
+      "color": null,
+      "title": "TWISTER | Twister Junior Special",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2368,
+      "permalink": "twister-i-twister",
+      "visible": true,
+      "parent_id": 1804,
+      "color": null,
+      "title": "TWISTER | i-Twister",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2401,
+      "permalink": "cold-drinks-mirinda-bottle",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Mirinda 0.5 l (bottle)",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2431,
+      "permalink": "desserts-cherry-pie",
+      "visible": true,
+      "parent_id": 1406,
+      "color": null,
+      "title": "DESSERTS | Cherry pie",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2510,
+      "permalink": "desserts-Ice-cream-cherry-pie",
+      "visible": true,
+      "parent_id": 2451,
+      "color": null,
+      "title": "DESSERTS | Ice Cream witn Cherry pie",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2220,
+      "permalink": "chicken-bites-teriyaki",
+      "visible": true,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN | Bites Teriyaki",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2311,
+      "permalink": "sauces-sweet-sour-sauce",
+      "visible": true,
+      "parent_id": 1841,
+      "color": null,
+      "title": "SAUCES | Sweet n' Sour Sauce",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2442,
+      "permalink": "milkshake-milkshake-chocolate-nut-300ml",
+      "visible": true,
+      "parent_id": 1402,
+      "color": null,
+      "title": "MILKSHAKES | Milkshake chocolate-nut 0.3 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2550,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1406,
+      "color": null,
+      "title": "DESSERT | Donut Passion fruit",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2590,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2584,
+      "color": null,
+      "title": "SNACKS| Snack 2 original strips and small fries",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2591,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2584,
+      "color": null,
+      "title": "SNACKS| Snack 2 spicy strips and small fries",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2592,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2584,
+      "color": null,
+      "title": "SNACKS| Snack 5 nuggets and small fries",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2593,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2584,
+      "color": null,
+      "title": "SNACKS| Snack with bytes and small fries",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 1396,
+      "permalink": "buckets",
+      "visible": true,
+      "parent_id": 0,
+      "color": null,
+      "title": "Бакети",
+      "description": null,
+      "imgs": [
+        {
+          "large": "files/1986.svg",
+          "medium": "files/1986.svg",
+          "thumb": "files/1986.svg"
+        }
+      ],
+      "c2": null
+    },
+    {
+      "id": 2221,
+      "permalink": "chicken-bites",
+      "visible": true,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN | Bites",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2312,
+      "permalink": "sauces-cheese-sause",
+      "visible": true,
+      "parent_id": 1841,
+      "color": null,
+      "title": "SAUCES | Cheese sause",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2524,
+      "permalink": "milkshakes-milkshake-330ml",
+      "visible": true,
+      "parent_id": 1402,
+      "color": null,
+      "title": "MILKSHAKES | Milkshake  0.33 I",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2606,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2543,
+      "color": null,
+      "title": "Teriyali | Teriyaki burger",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 1397,
+      "permalink": "juicy-chicken",
+      "visible": true,
+      "parent_id": 0,
+      "color": null,
+      "title": "Соковита курка",
+      "description": null,
+      "imgs": [
+        {
+          "large": "files/1962.svg",
+          "medium": "files/1962.svg",
+          "thumb": "files/1962.svg"
+        }
+      ],
+      "c2": null
+    },
+    {
+      "id": 2222,
+      "permalink": "chicken-4-spicy-drumsticks",
+      "visible": true,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN | 4 spicy drumsticks",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2317,
+      "permalink": "burgers-deluxe-cheeseburger",
+      "visible": true,
+      "parent_id": 1400,
+      "color": null,
+      "title": "BURGERS | De Luxe Cheeseburger",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2525,
+      "permalink": "milkshakes-milkshake-440ml",
+      "visible": true,
+      "parent_id": 1402,
+      "color": null,
+      "title": "MILKSHAKES | Milkshake  0.44 I",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2598,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1841,
+      "color": null,
+      "title": "SAUCED| Lingonberry sauce",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2607,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2543,
+      "color": null,
+      "title": "Teriyaki| Twister teriyaki",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2223,
+      "permalink": "chicken-4-drumstick",
+      "visible": true,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN | 4 drumstick",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2416,
+      "permalink": "cold-drinks-seven-up-300ml",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Seven Up 0.3 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2608,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2543,
+      "color": null,
+      "title": "Teriyaki | 5 teriyaki strips",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2611,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1402,
+      "color": null,
+      "title": "MILKSHAKES| Luxury Milkshake Strawberry Chocolate 0 4 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2371,
+      "permalink": "chicken-3-spicy-drumsticks",
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 3 spicy drumsticks",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2584,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 0,
+      "color": null,
+      "title": "Снеки",
+      "description": null,
+      "imgs": [
+        {
+          "large": "files/4396.svg",
+          "medium": "files/4396.svg",
+          "thumb": "files/4396.svg"
+        }
+      ],
+      "c2": null
+    },
+    {
+      "id": 2594,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2584,
+      "color": null,
+      "title": "SNACKS| Hasbrown",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2609,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2543,
+      "color": null,
+      "title": "Teriyaki| 2 teriyaki legs",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2612,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1402,
+      "color": null,
+      "title": "MILKSHAKES| Luxury Banana Chocolate Milkshake 0 4 l.",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 1841,
+      "permalink": "sauces",
+      "visible": true,
+      "parent_id": 0,
+      "color": null,
+      "title": "Соуси",
+      "description": null,
+      "imgs": [
+        {
+          "large": "files/3288.svg",
+          "medium": "files/3288.svg",
+          "thumb": "files/3288.svg"
+        }
+      ],
+      "c2": null
+    },
+    {
+      "id": 2320,
+      "permalink": "burgers-cheeseburger",
+      "visible": true,
+      "parent_id": 1400,
+      "color": null,
+      "title": "BURGERS | Cheeseburger",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2377,
+      "permalink": "chicken-2-drumstick",
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 2 drumstick",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2610,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 2543,
+      "color": null,
+      "title": "Teriyaki |Rice Box teriyaki",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 1405,
+      "permalink": "cold-drinks",
+      "visible": true,
+      "parent_id": 0,
+      "color": null,
+      "title": "Холодні напої",
+      "description": null,
+      "imgs": [
+        {
+          "large": "files/3888.svg",
+          "medium": "files/3888.svg",
+          "thumb": "files/3888.svg"
+        }
+      ],
+      "c2": null
+    },
+    {
+      "id": 2376,
+      "permalink": "chicken-2-spicy-drumstick",
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 2 spicy drumsticks",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2419,
+      "permalink": "cold-drinks-water-sparkling",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Mineral Water \"Aqua Minerale\" Sparkling Bottle 500 Ml",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2521,
+      "permalink": "Friends-Combo-HS",
+      "visible": true,
+      "parent_id": 1396,
+      "color": null,
+      "title": "BUCKETS | Friends Combo HS",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2535,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1804,
+      "color": null,
+      "title": "TWISTER | Quesadilla with tomatoes",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 1812,
+      "permalink": "hot-drinks",
+      "visible": true,
+      "parent_id": 0,
+      "color": null,
+      "title": "Гарячі напої",
+      "description": null,
+      "imgs": [
+        {
+          "large": "files/3887.svg",
+          "medium": "files/3887.svg",
+          "thumb": "files/3887.svg"
+        }
+      ],
+      "c2": null
+    },
+    {
+      "id": 2322,
+      "permalink": "burgers-toast-2-cheese",
+      "visible": true,
+      "parent_id": 1400,
+      "color": null,
+      "title": "BURGERS | Toast 2 cheese",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2375,
+      "permalink": "chicken-3-drumstick",
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 3 drumstick",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2513,
+      "permalink": "hot-drinks- Americano-with-milk-0.18",
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Americano with milk 0.18 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2394,
+      "permalink": "chicken-9-nuggets",
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 9 nuggets",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2451,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 0,
+      "color": null,
+      "title": "Морозиво",
+      "description": null,
+      "imgs": [
+        {
+          "large": "files/3884.svg",
+          "medium": "files/3884.svg",
+          "thumb": "files/3884.svg"
+        }
+      ],
+      "c2": null
+    },
+    {
+      "id": 2514,
+      "permalink": "hot-drinks- Americano-with-milk-0.28",
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS | Americano with milk 0.28 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2522,
+      "permalink": "Friends-Combo-OR",
+      "visible": true,
+      "parent_id": 1396,
+      "color": null,
+      "title": "BUCKETS | Friends Combo OR",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 1406,
+      "permalink": "desserts",
+      "visible": true,
+      "parent_id": 0,
+      "color": null,
+      "title": "Десерти",
+      "description": null,
+      "imgs": [
+        {
+          "large": "files/3886.svg",
+          "medium": "files/3886.svg",
+          "thumb": "files/3886.svg"
+        }
+      ],
+      "c2": null
+    },
+    {
+      "id": 2391,
+      "permalink": "chicken-20-nuggets",
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 20 nuggets",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2546,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS| ORANGE - MINT TEA",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 1402,
+      "permalink": "milkshakes",
+      "visible": true,
+      "parent_id": 0,
+      "color": null,
+      "title": "Мілкшейк",
+      "description": null,
+      "imgs": [
+        {
+          "large": "files/3885.svg",
+          "medium": "files/3885.svg",
+          "thumb": "files/3885.svg"
+        }
+      ],
+      "c2": null
+    },
+    {
+      "id": 2423,
+      "permalink": "cold-drinks-sandora-orange",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Juice \"Sandora\" Orange 0,2 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2483,
+      "permalink": null,
+      "visible": false,
+      "parent_id": 1400,
+      "color": null,
+      "title": "BURGERS | Ukranian Toast",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2547,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "HOT DRINKS| PUNCH \"CURRENT - BASIL\"",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2389,
+      "permalink": "chicken-3-strips",
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 3 strips",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2511,
+      "permalink": "burgers-classic",
+      "visible": true,
+      "parent_id": 1400,
+      "color": null,
+      "title": "BURGERS | Classic",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2548,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "ГАРЯЧІ НАПОЇ| Пряне лате",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2388,
+      "permalink": "chicken-3-strips-spicy",
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 3 strips spicy",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2512,
+      "permalink": "burgers-zinger",
+      "visible": true,
+      "parent_id": 1400,
+      "color": null,
+      "title": "BURGERS | Zinger",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2549,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1812,
+      "color": null,
+      "title": "ГАРЯЧІ НАПОЇ| Пряне Капучино",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2414,
+      "permalink": "cold-drinks-pepsi-300ml",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Pepsi 0.3 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2526,
+      "permalink": "cheeseburger-junior",
+      "visible": true,
+      "parent_id": 1400,
+      "color": null,
+      "title": "BURGERS | Cheeseburger junior",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2405,
+      "permalink": "cold-drinks-mirinda-500ml",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Mirinda 0.5 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2406,
+      "permalink": "cold-drinks-pepsi-500ml",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Pepsi 0.5 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2533,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1400,
+      "color": null,
+      "title": "BURGERS | Tower burger",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2383,
+      "permalink": "chicken-3-spicy-wings",
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 3 spicy wings",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2408,
+      "permalink": "cold-drinks-seven-up-500ml",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Seven Up 0.5 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2379,
+      "permalink": "chicken-1-drumstick",
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 1 drumstick",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2378,
+      "permalink": "chicken-1-spicy-drumstick",
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 1 spicy drumstick",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2413,
+      "permalink": "cold-drinks-mirinda-300ml",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Mirinda 0.3 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2485,
+      "permalink": null,
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN | 8 spicy wings",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2395,
+      "permalink": "chicken-6-nuggets",
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN| 6 nuggets",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2515,
+      "permalink": "cold-drinks-sandora-cherry",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Juice \"Sandora\" Cherry 0,2 l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2486,
+      "permalink": null,
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN | 5 spicy wings",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2509,
+      "permalink": "cold-drinks-passion-fruit-lemonade",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Passion fruit lemonade",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2487,
+      "permalink": null,
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN | 8 strips spicy",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2516,
+      "permalink": "cold-drinks-ice-latte",
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "COLD DRINKS | Ice Latte 0.33l",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2488,
+      "permalink": null,
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN | 8 strips",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2599,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1405,
+      "color": null,
+      "title": "СOLD DRINKS| Pina Colada",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2489,
+      "permalink": null,
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN | 5 strips spicy",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2490,
+      "permalink": null,
+      "visible": false,
+      "parent_id": 1397,
+      "color": null,
+      "title": "JUICY CHICKEN | 5 strips",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2581,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1400,
+      "color": null,
+      "title": "БУРГЕРИ/ Дабл чізбургер (ОР)",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2595,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1400,
+      "color": null,
+      "title": "BURGERS| Grander BBQ (OR)",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    },
+    {
+      "id": 2596,
+      "permalink": null,
+      "visible": true,
+      "parent_id": 1400,
+      "color": null,
+      "title": "BURGERS| Grander BBQ (HS)",
+      "description": null,
+      "imgs": [],
+      "c2": null
+    }
+  ]

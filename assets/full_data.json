@@ -1,0 +1,6887 @@
+[
+    {
+      "id": 2480,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "СИРНІ ПАЛИЧКИ",
+      "description": "<p><em><strong>Неймовірно ніжні та хрусткі палички з сиру Моцарелла!</strong></em></p>\n<p> </p>\n<p><em>Вага продукту - 102 г. (391.6 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 0,
+      "imgs": [
+        {
+          "large": "files/4384.png",
+          "medium": "files/medium/medium_4384.png",
+          "thumb": "files/thumbs/thumb_4384.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3322,
+          "price": 120,
+          "code": "CHSTK",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2589
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 0,
+      "url": "product/2480/сирні-палички",
+      "spec_price": 120
+    },
+    {
+      "id": 2455,
+      "perma_name": "milkshake-440ml",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "МІЛКШЕЙК  0.44 Л",
+      "description": "<p><strong>Ніжний молочний коктейль (0.44 л).</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4254.png",
+          "medium": "files/medium/medium_4254.png",
+          "thumb": "files/thumbs/thumb_4254.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3297,
+          "price": 65,
+          "code": "MLSH33",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2525
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 1,
+      "url": "product/milkshake-440ml",
+      "spec_price": 65
+    },
+    {
+      "id": 2452,
+      "perma_name": "Friends-Combo-HS",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "ФРЕНДС КОМБО ГОСТРЕ",
+      "description": "<p><strong>12 крил у гострій паніровці, 4 гострі ніжки, 8 гострих стріпсів, бакет картоплі фрі та 4 Пепсі 0,5 (пляшка) </strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4240.png",
+          "medium": "files/medium/medium_4240.png",
+          "thumb": "files/thumbs/thumb_4240.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3294,
+          "price": 700,
+          "code": "FCHS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2521
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 2,
+      "url": "product/Friends-Combo-HS",
+      "spec_price": 700
+    },
+    {
+      "id": 2453,
+      "perma_name": "Friends-Combo-OR",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "ФРЕНДС КОМБО ОРИГІНАЛЬНЕ",
+      "description": "<p><strong>12 крил у гострій паніровці, 4 оригінальних ніжки, 8 оригінальних стріпсів, бакет картоплі фрі та 4 Пепсі 0,5 (пляшка).</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4241.png",
+          "medium": "files/medium/medium_4241.png",
+          "thumb": "files/thumbs/thumb_4241.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3295,
+          "price": 700,
+          "code": "FCOR",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2522
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 3,
+      "url": "product/Friends-Combo-OR",
+      "spec_price": 700
+    },
+    {
+      "id": 2451,
+      "perma_name": "Ice-latte-0.33l",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "АЙС ЛАТЕ",
+      "description": "<p><em><strong>Айс Лате 0.33л</strong></em></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4266.png",
+          "medium": "files/medium/medium_4266.png",
+          "thumb": "files/thumbs/thumb_4266.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3293,
+          "price": 70,
+          "code": "ILAT3",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2516
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 4,
+      "url": "product/Ice-latte-0.33l",
+      "spec_price": 70
+    },
+    {
+      "id": 2443,
+      "perma_name": "Sgraw-lemonade",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ЛИМОНАД ПІНА КОЛАДА",
+      "description": "<p><em><strong>Лимонад Піна Колада, 0,33л</strong></em></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4401.jpg",
+          "medium": "files/medium/medium_4401.jpg",
+          "thumb": "files/thumbs/thumb_4401.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3285,
+          "price": 70,
+          "code": "STLEM",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2599
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 5,
+      "url": "product/Sgraw-lemonade",
+      "spec_price": 70
+    },
+    {
+      "id": 2445,
+      "perma_name": "ice-cream-cherry-pie",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "МОРОЗИВО АЙС ЧЕРІ З ТОПІНГОМ",
+      "description": "<p><strong>Ніжне вершкове морозиво з пиріжком (вишня) та топінгом на смак (шоколад, полуниця або карамель).</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4215.png",
+          "medium": "files/medium/medium_4215.png",
+          "thumb": "files/thumbs/thumb_4215.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3287,
+          "price": 70,
+          "code": "CHEPI",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2680,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2510
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": [
+        {
+          "id": 2445,
+          "min": 1
+        }
+      ],
+      "order": 6,
+      "url": "product/ice-cream-cherry-pie",
+      "spec_price": 70
+    },
+    {
+      "id": 2444,
+      "perma_name": "Passion-fruit-lemonade",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ЛИМОНАД МАРАКУЙЯ",
+      "description": "<p><strong>Лимонад Маракуйя, 0,33л</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4271.png",
+          "medium": "files/medium/medium_4271.png",
+          "thumb": "files/thumbs/thumb_4271.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3286,
+          "price": 70,
+          "code": "STLEM",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2509
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 7,
+      "url": "product/Passion-fruit-lemonade",
+      "spec_price": 70
+    },
+    {
+      "id": 2285,
+      "perma_name": "boxmaster-spicy",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "БОКСМАСТЕР ГОСТРИЙ",
+      "description": "<p><strong>Куряче філе в гострій хрусткій паніровці, картопляник, скибочка сиру, томати та листя салату, майонез, загорнутi у гарячу тортілью.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 276 г. (720.4 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4186.png",
+          "medium": "files/medium/medium_4186.png",
+          "thumb": "files/thumbs/thumb_4186.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3126,
+          "price": 155,
+          "code": "BOXMS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2663,
+          "q": 1
+        },
+        {
+          "id": 2665,
+          "q": 1
+        },
+        {
+          "id": 2672,
+          "q": 1
+        },
+        {
+          "id": 2673,
+          "q": 1
+        },
+        {
+          "id": 2676,
+          "q": 1
+        },
+        {
+          "id": 2725,
+          "q": 1
+        },
+        {
+          "id": 2730,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2227
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 8,
+      "url": "product/boxmaster-spicy",
+      "spec_price": 155
+    },
+    {
+      "id": 2304,
+      "perma_name": "bites-barbecue",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "БАЙТС БАРБЕКЮ",
+      "description": "<p><strong>Соковиті гострі шматочки курочки у хрусткій паніровці з соусом барбекю.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 135 г. (483.5 ККАЛ)</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4370.png",
+          "medium": "files/medium/medium_4370.png",
+          "thumb": "files/thumbs/thumb_4370.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3145,
+          "price": 125,
+          "code": "BTBBQ",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2219
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 9,
+      "url": "product/bites-barbecue",
+      "spec_price": 125
+    },
+    {
+      "id": 2406,
+      "perma_name": "eight-spicy-wings",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "8 ГОСТРИХ КРИЛЕЦЬ",
+      "description": "<p><strong>8 гострих курячих крилець в хрусткій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 200 г. (571 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4096.png",
+          "medium": "files/medium/medium_4096.png",
+          "thumb": "files/thumbs/thumb_4096.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3248,
+          "price": 180,
+          "code": "ESPWN",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2485
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 10,
+      "url": "product/eight-spicy-wings",
+      "spec_price": 180
+    },
+    {
+      "id": 2407,
+      "perma_name": "five-spicy-wings",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "5 ГОСТРИХ КРИЛЕЦЬ",
+      "description": "<p><strong>5 гострих курячих крилець в хрусткій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 125 г. (356.8 г.).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4097.png",
+          "medium": "files/medium/medium_4097.png",
+          "thumb": "files/thumbs/thumb_4097.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3249,
+          "price": 115,
+          "code": "FVSPWG",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2486
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 11,
+      "url": "product/five-spicy-wings",
+      "spec_price": 115
+    },
+    {
+      "id": 2331,
+      "perma_name": "bucket-french-frie",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "БАКЕТ ФРІ",
+      "description": "<p><strong>Бакет хрусткої картопельки фрі - великий розмір.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 240 г. (809.2 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3833.jpg",
+          "medium": "files/medium/medium_3833.jpg",
+          "thumb": "files/thumbs/thumb_3833.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3172,
+          "price": 105,
+          "code": "BCKFR",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2587
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 12,
+      "url": "product/bucket-french-frie",
+      "spec_price": 105
+    },
+    {
+      "id": 2333,
+      "perma_name": "french-fries-standart",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "КАРТОПЛЯ ФРІ СТАНДАРТ",
+      "description": "<p><strong>Хрустка картопелька фрі - стандартний розмір.</strong></p>\n<p> </p>\n<p><em> Вага продукту - 120 г. (404.6 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3831.jpg",
+          "medium": "files/medium/medium_3831.jpg",
+          "thumb": "files/thumbs/thumb_3831.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3174,
+          "price": 70,
+          "code": "FRSTD",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2586
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 13,
+      "url": "product/french-fries-standart",
+      "spec_price": 70
+    },
+    {
+      "id": 2334,
+      "perma_name": "french-fries-small",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "КАРТОПЛЯ ФРІ МАЛА",
+      "description": "<p><strong>Хрустка картопелька фрі - малий розмір.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 70 г. (236.04 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3830.jpg",
+          "medium": "files/medium/medium_3830.jpg",
+          "thumb": "files/thumbs/thumb_3830.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3175,
+          "price": 50,
+          "code": "FRSML",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2585
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 14,
+      "url": "product/french-fries-small",
+      "spec_price": 50
+    },
+    {
+      "id": 2332,
+      "perma_name": "homemade-potatoes",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "КАРТОПЛЯ ПО-ДОМАШНЬОМУ",
+      "description": "<p><strong>Розсипчаста і хрустка картопля по-домашньому.</strong></p>\n<p> </p>\n<p>Вага продукту - 135 г. (412.09 ККАЛ).</p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3834.jpg",
+          "medium": "files/medium/medium_3834.jpg",
+          "thumb": "files/thumbs/thumb_3834.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3173,
+          "price": 75,
+          "code": "HMPOT",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2588
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 15,
+      "url": "product/homemade-potatoes",
+      "spec_price": 75
+    },
+    {
+      "id": 2335,
+      "perma_name": "crunchy-hashbrown",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "ХЕШ БРАУН",
+      "description": "<p><strong>Хрумкий хешбраун iз добiрної картоплi.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 41.5 г. (157.2 ККАЛ). </em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3832.jpg",
+          "medium": "files/medium/medium_3832.jpg",
+          "thumb": "files/thumbs/thumb_3832.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3176,
+          "price": 25,
+          "code": "CRHAS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2594
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 16,
+      "url": "product/crunchy-hashbrown",
+      "spec_price": 25
+    },
+    {
+      "id": 2336,
+      "perma_name": "mustard-sauce",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "СОУС ГІРЧИЧНИЙ",
+      "description": "<p><strong>Пікантний соус гірчичний.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3825.jpg",
+          "medium": "files/medium/medium_3825.jpg",
+          "thumb": "files/thumbs/thumb_3825.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3177,
+          "price": 25,
+          "code": "MUSSC",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2276
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 17,
+      "url": "product/mustard-sauce",
+      "spec_price": 25
+    },
+    {
+      "id": 2337,
+      "perma_name": "mayonnaise",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "МАЙОНЕЗ ПРОВАНСАЛЬ",
+      "description": "<p><strong>Ніжний майонез Провансаль.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3829.jpg",
+          "medium": "files/medium/medium_3829.jpg",
+          "thumb": "files/thumbs/thumb_3829.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3178,
+          "price": 25,
+          "code": "MAYO",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2277
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 18,
+      "url": "product/mayonnaise",
+      "spec_price": 25
+    },
+    {
+      "id": 2338,
+      "perma_name": "bbq-sauce",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "СОУС БАРБЕКЮ",
+      "description": "<p><strong>Яскравий соус барбекю.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3827.jpg",
+          "medium": "files/medium/medium_3827.jpg",
+          "thumb": "files/thumbs/thumb_3827.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3179,
+          "price": 25,
+          "code": "BBQSC",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2278
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 19,
+      "url": "product/bbq-sauce",
+      "spec_price": 25
+    },
+    {
+      "id": 2339,
+      "perma_name": "ketchup",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "КЕТЧУП ТОМАТНИЙ",
+      "description": "<p><strong>Насичений кетчуп томатний.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3826.jpg",
+          "medium": "files/medium/medium_3826.jpg",
+          "thumb": "files/thumbs/thumb_3826.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3180,
+          "price": 25,
+          "code": "KTCHP",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2279
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 20,
+      "url": "product/ketchup",
+      "spec_price": 25
+    },
+    {
+      "id": 2483,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "БРУСНИЧНИЙ СОУС",
+      "description": "<p><strong>Ніжний брусничний соус.</strong></p>\n<p> </p>\n<p> </p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4393.png",
+          "medium": "files/medium/medium_4393.png",
+          "thumb": "files/thumbs/thumb_4393.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3325,
+          "price": 25,
+          "code": "LNBS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2598
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 21,
+      "url": "product/2483/брусничний-соус",
+      "spec_price": 25
+    },
+    {
+      "id": 2340,
+      "perma_name": "curry-sauce",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "СОУС КАРІ",
+      "description": "<p><strong>Пікантний соус карі.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3824.jpg",
+          "medium": "files/medium/medium_3824.jpg",
+          "thumb": "files/thumbs/thumb_3824.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3181,
+          "price": 25,
+          "code": "CURRY",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2287
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 22,
+      "url": "product/curry-sauce",
+      "spec_price": 25
+    },
+    {
+      "id": 2341,
+      "perma_name": "sweet-n-sour",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "СОУС КИСЛО-СОЛОДКИЙ",
+      "description": "<p><strong>Яскравий соус кисло-солодкий.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3828.jpg",
+          "medium": "files/medium/medium_3828.jpg",
+          "thumb": "files/thumbs/thumb_3828.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3182,
+          "price": 25,
+          "code": "SWNSR",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2311
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 23,
+      "url": "product/sweet-n-sour",
+      "spec_price": 25
+    },
+    {
+      "id": 2342,
+      "perma_name": "cheese-sauce",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "СОУС СИРНИЙ",
+      "description": "<p><strong>Ніжний соус сирний.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3823.jpg",
+          "medium": "files/medium/medium_3823.jpg",
+          "thumb": "files/thumbs/thumb_3823.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3183,
+          "price": 25,
+          "code": "CHSSC",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2312
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 24,
+      "url": "product/cheese-sauce",
+      "spec_price": 25
+    },
+    {
+      "id": 2347,
+      "perma_name": "mirinda-500-bottle",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "МІРІНДА 0,5 Л. (ПЛЯШКА)",
+      "description": "<p><strong>Газований напій Mirinda 0,5 л (пляшка).</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4133.jpg",
+          "medium": "files/medium/medium_4133.jpg",
+          "thumb": "files/thumbs/thumb_4133.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3188,
+          "price": 50,
+          "code": "MRN50",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2401
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 25,
+      "url": "product/mirinda-500-bottle",
+      "spec_price": 50
+    },
+    {
+      "id": 2348,
+      "perma_name": "pepsi-500-bottle",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "ПЕПСІ 0,5 Л (ПЛЯШКА)",
+      "description": "<p><strong>Пепсі 0,5 (пляшка).</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3760.jpg",
+          "medium": "files/medium/medium_3760.jpg",
+          "thumb": "files/thumbs/thumb_3760.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3189,
+          "price": 50,
+          "code": "PPS50",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2402
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 26,
+      "url": "product/pepsi-500-bottle",
+      "spec_price": 50
+    },
+    {
+      "id": 2350,
+      "perma_name": "7up-500-bottle",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "СЕВЕН АП 0,5 Л (ПЛЯШКА)",
+      "description": "<p><strong> Газований напій 7 Up 0,5 л (пляшка).</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4134.jpg",
+          "medium": "files/medium/medium_4134.jpg",
+          "thumb": "files/thumbs/thumb_4134.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3191,
+          "price": 50,
+          "code": "7UP50",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2404
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 27,
+      "url": "product/7up-500-bottle",
+      "spec_price": 50
+    },
+    {
+      "id": 2351,
+      "perma_name": "mirinda-500",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "МІРІНДА 0,5 Л",
+      "description": "<p><strong>Мірінда 0,5 л.</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 1,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3764.jpg",
+          "medium": "files/medium/medium_3764.jpg",
+          "thumb": "files/thumbs/thumb_3764.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3192,
+          "price": 55,
+          "code": "MRN50",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2405
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": true,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 28,
+      "url": "product/mirinda-500",
+      "spec_price": 55
+    },
+    {
+      "id": 2352,
+      "perma_name": "pepsi-500",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "ПЕПСІ 0,5 Л.",
+      "description": "<p><strong> Газований напій Pepsi 0,5 л.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 1,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3773.jpg",
+          "medium": "files/medium/medium_3773.jpg",
+          "thumb": "files/thumbs/thumb_3773.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3193,
+          "price": 50,
+          "code": "PPS50",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2406
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": true,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 29,
+      "url": "product/pepsi-500",
+      "spec_price": 50
+    },
+    {
+      "id": 2354,
+      "perma_name": "7up-500",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "СЕВЕН АП 0.5 Л",
+      "description": "<p><strong> Газований напій 7 Up 0.5 л.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 1,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3771.jpg",
+          "medium": "files/medium/medium_3771.jpg",
+          "thumb": "files/thumbs/thumb_3771.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3195,
+          "price": 55,
+          "code": "7UP50",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2408
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": true,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 30,
+      "url": "product/7up-500",
+      "spec_price": 55
+    },
+    {
+      "id": 2359,
+      "perma_name": "mirinda-300",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "МІРІНДА 0,3 Л",
+      "description": "<p><strong>Мірінда 0,3 л.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 1,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3774.jpg",
+          "medium": "files/medium/medium_3774.jpg",
+          "thumb": "files/thumbs/thumb_3774.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3200,
+          "price": 35,
+          "code": "MRN30",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2413
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": true,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 31,
+      "url": "product/mirinda-300",
+      "spec_price": 35
+    },
+    {
+      "id": 2360,
+      "perma_name": "pepsi-300",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "ПЕПСІ 0,3 Л",
+      "description": "<p><strong>Пепсі 0,3 л.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 1,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3777.jpg",
+          "medium": "files/medium/medium_3777.jpg",
+          "thumb": "files/thumbs/thumb_3777.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3201,
+          "price": 35,
+          "code": "PPS30",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2414
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": true,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 32,
+      "url": "product/pepsi-300",
+      "spec_price": 35
+    },
+    {
+      "id": 2362,
+      "perma_name": "7up-300",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "СЕВЕН АП 0.3 Л",
+      "description": "<p><strong> Газований напій 7 Up 0.3 л.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 1,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3778.jpg",
+          "medium": "files/medium/medium_3778.jpg",
+          "thumb": "files/thumbs/thumb_3778.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3203,
+          "price": 35,
+          "code": "7UP30",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2416
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": true,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 33,
+      "url": "product/7up-300",
+      "spec_price": 35
+    },
+    {
+      "id": 2424,
+      "perma_name": "sparkling-water-500",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "МІНЕРАЛЬНА ВОДА ГАЗОВАНА \"КАРПАТСЬКА ДЖЕРЕЛЬНА\" 0,5 Л",
+      "description": "<p><strong>Мінеральна вода газована \"Карпатська Джерельна\" 0.5л (пляшка).</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4112.png",
+          "medium": "files/medium/medium_4112.png",
+          "thumb": "files/thumbs/thumb_4112.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3266,
+          "price": 30,
+          "code": "SPAR5",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2419
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 34,
+      "url": "product/sparkling-water-500",
+      "spec_price": 30
+    },
+    {
+      "id": 2423,
+      "perma_name": "sparkling-water-500",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "МІНЕРАЛЬНА ВОДА НЕГАЗОВАНА \"КАРПАТСЬКА ДЖЕРЕЛЬНА\" 0,5 Л",
+      "description": "<p><strong>Мінеральна вода негазована \"Карпатська Джерельна\" 0.5л (пляшка).</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4113.png",
+          "medium": "files/medium/medium_4113.png",
+          "thumb": "files/thumbs/thumb_4113.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3265,
+          "price": 30,
+          "code": "SPAR5",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2419
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 35,
+      "url": "product/sparkling-water-500",
+      "spec_price": 30
+    },
+    {
+      "id": 2369,
+      "perma_name": "sandora-orange-200",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "СІК \"SANDORA\" АПЕЛЬСИН 0,2Л.",
+      "description": "<p><strong>Сік \"Сандора\" зі смаком апельсину 0,2л.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4211.png",
+          "medium": "files/medium/medium_4211.png",
+          "thumb": "files/thumbs/thumb_4211.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3210,
+          "price": 25,
+          "code": "SND20",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2423
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 36,
+      "url": "product/sandora-orange-200",
+      "spec_price": 25
+    },
+    {
+      "id": 2371,
+      "perma_name": "milkshake-strawberry-400ml",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "МІЛКШЕЙК ПОЛУНИЦЯ  0.44 Л",
+      "description": "<p><strong>Ніжний молочний коктейль полуничний (0.44 л).</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4255.png",
+          "medium": "files/medium/medium_4255.png",
+          "thumb": "files/thumbs/thumb_4255.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3212,
+          "price": 65,
+          "code": "STR40",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2254
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 37,
+      "url": "product/milkshake-strawberry-400ml",
+      "spec_price": 65
+    },
+    {
+      "id": 2488,
+      "perma_name": null,
+      "preorder": false,
+      "featured": true,
+      "featured_ordering": 7,
+      "title": "ЛЮКС МІЛКШЕЙК ПОЛУНИЦЯ-ШОКОЛАД  0,44 л.",
+      "description": "<p><strong>Ніжний молочний коктейль полунично - шоколадний (0.44 л).</strong></p>\n<p> </p>\n<p> </p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4427.png",
+          "medium": "files/medium/medium_4427.png",
+          "thumb": "files/thumbs/thumb_4427.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3330,
+          "price": 80,
+          "code": "LMSHS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2611
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 38,
+      "url": "product/2488/люкс-мілкшейк-полуниця-шоколад--0,44-л.",
+      "spec_price": 80
+    },
+    {
+      "id": 2372,
+      "perma_name": "milkshakes-chocolate-nuts-400ml",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "МІЛКШЕЙК ШОКОЛАД-ГОРІХ  0.44 Л",
+      "description": "<p><strong>Ніжний молочний коктейль зі смаком шоколаду та волоського горіха (0.44 л). </strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4257.png",
+          "medium": "files/medium/medium_4257.png",
+          "thumb": "files/thumbs/thumb_4257.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3213,
+          "price": 65,
+          "code": "CHNT4",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2253
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 39,
+      "url": "product/milkshakes-chocolate-nuts-400ml",
+      "spec_price": 65
+    },
+    {
+      "id": 2489,
+      "perma_name": null,
+      "preorder": false,
+      "featured": true,
+      "featured_ordering": 8,
+      "title": "ЛЮКС МІЛКШЕЙК БАНАН-ШОКОЛАД  0,44 л",
+      "description": "<p><strong>Ніжний молочний коктейль бананово - шоколадний (0.44 л).</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4428.png",
+          "medium": "files/medium/medium_4428.png",
+          "thumb": "files/thumbs/thumb_4428.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3331,
+          "price": 80,
+          "code": "LMBCM",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2612
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 40,
+      "url": "product/2489/люкс-мілкшейк-банан-шоколад--0,44-л",
+      "spec_price": 80
+    },
+    {
+      "id": 2454,
+      "perma_name": "milkshake-330ml",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "МІЛКШЕЙК  0.33 Л",
+      "description": "<p><strong>Ніжний молочний коктейль (0.33 л).</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4253.png",
+          "medium": "files/medium/medium_4253.png",
+          "thumb": "files/thumbs/thumb_4253.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3296,
+          "price": 60,
+          "code": "MLSH33",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2524
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 41,
+      "url": "product/milkshake-330ml",
+      "spec_price": 60
+    },
+    {
+      "id": 2375,
+      "perma_name": "milkshake-chocolate-nuts-300ml",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "МІЛКШЕЙК ШОКОЛАД-ГОРІХ  0.33 Л",
+      "description": "<p><strong>Ніжний молочний коктейль зі смаком шоколаду та волоського горіха (0,33 л). </strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4258.png",
+          "medium": "files/medium/medium_4258.png",
+          "thumb": "files/thumbs/thumb_4258.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3217,
+          "price": 60,
+          "code": "CHNT30",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2442
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 42,
+      "url": "product/milkshake-chocolate-nuts-300ml",
+      "spec_price": 60
+    },
+    {
+      "id": 2377,
+      "perma_name": "ice-cream-lion",
+      "preorder": false,
+      "featured": true,
+      "featured_ordering": 9,
+      "title": "МОРОЗИВО КРІСПІ КРАНЧ",
+      "description": "<p><strong>Мікс Lion: хрусткі кріспи, шматочки карамелі та шоколаду з топінгом на вибір!</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4412.jpg",
+          "medium": "files/medium/medium_4412.jpg",
+          "thumb": "files/thumbs/thumb_4412.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3218,
+          "price": 65,
+          "code": "LION",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2680,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2272
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": [
+        {
+          "id": 2445,
+          "min": 1
+        }
+      ],
+      "order": 43,
+      "url": "product/ice-cream-lion",
+      "spec_price": 65
+    },
+    {
+      "id": 2379,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "МОРОЗИВО ЛІТНЯ ФАНТАЗІЯ",
+      "description": "<p><strong>Ніжне вершкове морозиво з топінгом на смак (шоколад, карамель або полуниця).</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4276.png",
+          "medium": "files/medium/medium_4276.png",
+          "thumb": "files/thumbs/thumb_4276.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3220,
+          "price": 55,
+          "code": "ICFAN",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2680,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2426
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": [
+        {
+          "id": 2445,
+          "min": 1
+        }
+      ],
+      "order": 44,
+      "url": "product/2379/морозиво-літня-фантазія",
+      "spec_price": 55
+    },
+    {
+      "id": 2380,
+      "perma_name": "donut-strawberry",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "ДОНАТ ПОЛУНИЧНИЙ",
+      "description": "<p><strong>Ніжний полуничний донат.</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4209.png",
+          "medium": "files/medium/medium_4209.png",
+          "thumb": "files/thumbs/thumb_4209.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3221,
+          "price": 50,
+          "code": "DTSTR",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2427
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 45,
+      "url": "product/donut-strawberry",
+      "spec_price": 50
+    },
+    {
+      "id": 2381,
+      "perma_name": "donut-salted-caramel",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "ДОНАТ СОЛОНА КАРАМЕЛЬ",
+      "description": "<p><strong>Дивовижний донат солона кармель.</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4210.png",
+          "medium": "files/medium/medium_4210.png",
+          "thumb": "files/thumbs/thumb_4210.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3222,
+          "price": 50,
+          "code": "SCRML",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2428
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 46,
+      "url": "product/donut-salted-caramel",
+      "spec_price": 50
+    },
+    {
+      "id": 2471,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "ДОНАТ \"МАРАКУЙЯ\"",
+      "description": "<p><strong>Екзотичний донат маракуйя.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4333.jpg",
+          "medium": "files/medium/medium_4333.jpg",
+          "thumb": "files/thumbs/thumb_4333.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3313,
+          "price": 50,
+          "code": "DONMRC",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2550
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 47,
+      "url": "product/2471/донат-\"маракуйя\"",
+      "spec_price": 50
+    },
+    {
+      "id": 2384,
+      "perma_name": "cherry-pie",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "ПИРІЖОК ІЗ ВИШНЕЮ",
+      "description": "<p><strong>Хрусткий пиріжок з солодкою вишнею.</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4094.png",
+          "medium": "files/medium/medium_4094.png",
+          "thumb": "files/thumbs/thumb_4094.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3225,
+          "price": 45,
+          "code": "CHPIE",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2431
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 48,
+      "url": "product/cherry-pie",
+      "spec_price": 45
+    },
+    {
+      "id": 2385,
+      "perma_name": "summer-ice-cream",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "МОРОЗИВО РІЖОК",
+      "description": "<p><strong>Ніжне м'яке вершкове морозиво у вафельному ріжку.</strong> </p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3813.jpg",
+          "medium": "files/medium/medium_3813.jpg",
+          "thumb": "files/thumbs/thumb_3813.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3226,
+          "price": 40,
+          "code": "SMRIC",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2432
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 49,
+      "url": "product/summer-ice-cream",
+      "spec_price": 40
+    },
+    {
+      "id": 2386,
+      "perma_name": "cappuccino-400",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "КАПУЧИНО 0,4 Л",
+      "description": "<p><strong>Кава Капучино зернова 0.4 л. </strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4267.png",
+          "medium": "files/medium/medium_4267.png",
+          "thumb": "files/thumbs/thumb_4267.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3227,
+          "price": 60,
+          "code": "CPC40",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2236
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 50,
+      "url": "product/cappuccino-400",
+      "spec_price": 60
+    },
+    {
+      "id": 2467,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ПРЯНЕ КАПУЧИНО 0.4.Л.",
+      "description": "<p><strong>Ароматне Капучино з сиропом \"Пряний гарбуз\".</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4309.png",
+          "medium": "files/medium/medium_4309.png",
+          "thumb": "files/thumbs/thumb_4309.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3309,
+          "price": 65,
+          "code": "CAPSPY",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2549
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 51,
+      "url": "product/2467/пряне-капучино-0.4.л.",
+      "spec_price": 65
+    },
+    {
+      "id": 2387,
+      "perma_name": "latte-400",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ЛАТЕ 0,4 Л",
+      "description": "<p><strong>Кава Лате зернова 0,4<em> </em>л.</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4263.png",
+          "medium": "files/medium/medium_4263.png",
+          "thumb": "files/thumbs/thumb_4263.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3228,
+          "price": 60,
+          "code": "LAT40",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2237
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 52,
+      "url": "product/latte-400",
+      "spec_price": 60
+    },
+    {
+      "id": 2470,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ПРЯНЕ ЛАТЕ 0.4 Л.",
+      "description": "<p><strong>Ароматне Лате з сиропом \"Пряний гарбуз\".</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4312.png",
+          "medium": "files/medium/medium_4312.png",
+          "thumb": "files/thumbs/thumb_4312.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3312,
+          "price": 65,
+          "code": "SPLT4",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2548
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 53,
+      "url": "product/2470/пряне-лате-0.4-л.",
+      "spec_price": 65
+    },
+    {
+      "id": 2388,
+      "perma_name": "cappuccino-300",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "КАПУЧИНО 0,3 Л",
+      "description": "<p><strong>Кава Капучино зернова 0,3 л.</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4268.png",
+          "medium": "files/medium/medium_4268.png",
+          "thumb": "files/thumbs/thumb_4268.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3229,
+          "price": 50,
+          "code": "CPC30",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2238
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 54,
+      "url": "product/cappuccino-300",
+      "spec_price": 50
+    },
+    {
+      "id": 2468,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ПРЯНЕ КАПУЧИНО 0.3 Л.",
+      "description": "<p><strong>Ароматне Капучино з сиропом \"Пряний гарбуз\".</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4310.png",
+          "medium": "files/medium/medium_4310.png",
+          "thumb": "files/thumbs/thumb_4310.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3310,
+          "price": 60,
+          "code": "CAPSPY3",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2549
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 55,
+      "url": "product/2468/пряне-капучино-0.3-л.",
+      "spec_price": 60
+    },
+    {
+      "id": 2390,
+      "perma_name": "americano-300",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "АМЕРИКАНО 0,3 Л",
+      "description": "<p><strong>Кава Американо зернова 0,3 л. </strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4262.png",
+          "medium": "files/medium/medium_4262.png",
+          "thumb": "files/thumbs/thumb_4262.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3231,
+          "price": 45,
+          "code": "AMC30",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2434
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 56,
+      "url": "product/americano-300",
+      "spec_price": 45
+    },
+    {
+      "id": 2389,
+      "perma_name": "latte-300",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ЛАТЕ 0,3 Л",
+      "description": "<p><strong>Кава Лате зернова  0,3 л. </strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4264.png",
+          "medium": "files/medium/medium_4264.png",
+          "thumb": "files/thumbs/thumb_4264.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3230,
+          "price": 50,
+          "code": "LAT30",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2433
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 57,
+      "url": "product/latte-300",
+      "spec_price": 50
+    },
+    {
+      "id": 2469,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ПРЯНЕ ЛАТЕ 0.3 Л.",
+      "description": "<p><strong>Ароматне Лате з сиропом \"Пряний гарбуз\".</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4311.png",
+          "medium": "files/medium/medium_4311.png",
+          "thumb": "files/thumbs/thumb_4311.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3311,
+          "price": 60,
+          "code": "SPLT3",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2548
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 58,
+      "url": "product/2469/пряне-лате-0.3-л.",
+      "spec_price": 60
+    },
+    {
+      "id": 2449,
+      "perma_name": "americano-280",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "АМЕРИКАНО З МОЛОКОМ 0,28 Л",
+      "description": "<p><strong>Кава Американо з молоком 0.28 л. </strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4259.png",
+          "medium": "files/medium/medium_4259.png",
+          "thumb": "files/thumbs/thumb_4259.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3291,
+          "price": 50,
+          "code": "AMC28",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2514
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 59,
+      "url": "product/americano-280",
+      "spec_price": 50
+    },
+    {
+      "id": 2391,
+      "perma_name": "cappuccino-200",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "КАПУЧИНО 0,2 Л",
+      "description": "<p><strong>Кава Капучино зернова 0.2 л.</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4269.png",
+          "medium": "files/medium/medium_4269.png",
+          "thumb": "files/thumbs/thumb_4269.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3232,
+          "price": 40,
+          "code": "CPC20",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2435
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 60,
+      "url": "product/cappuccino-200",
+      "spec_price": 40
+    },
+    {
+      "id": 2392,
+      "perma_name": "latte-200",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ЛАТЕ 0,2 Л",
+      "description": "<p><strong>Кава Лате зернова 0.2 л.</strong> </p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4265.png",
+          "medium": "files/medium/medium_4265.png",
+          "thumb": "files/thumbs/thumb_4265.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3233,
+          "price": 40,
+          "code": "LAT20",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2436
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 61,
+      "url": "product/latte-200",
+      "spec_price": 40
+    },
+    {
+      "id": 2393,
+      "perma_name": "americano-200",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "АМЕРИКАНО 0,2 Л",
+      "description": "<p><strong>Кава Американо зернова 0,2 л. </strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4261.png",
+          "medium": "files/medium/medium_4261.png",
+          "thumb": "files/thumbs/thumb_4261.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3234,
+          "price": 35,
+          "code": "AME20",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2437
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 62,
+      "url": "product/americano-200",
+      "spec_price": 35
+    },
+    {
+      "id": 2448,
+      "perma_name": "americano-180",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "АМЕРИКАНО З МОЛОКОМ 0,18 Л",
+      "description": "<p><strong>Кава Американо з молоком 0.18 л. </strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4260.png",
+          "medium": "files/medium/medium_4260.png",
+          "thumb": "files/thumbs/thumb_4260.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3290,
+          "price": 40,
+          "code": "AMC18",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2513
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 63,
+      "url": "product/americano-180",
+      "spec_price": 40
+    },
+    {
+      "id": 2394,
+      "perma_name": "green-tea",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ЧАЙ ЗЕЛЕНИЙ",
+      "description": "<p><strong>Чай зелений (пакетований)</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4273.png",
+          "medium": "files/medium/medium_4273.png",
+          "thumb": "files/thumbs/thumb_4273.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3235,
+          "price": 35,
+          "code": "GRTEA",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2438
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 64,
+      "url": "product/green-tea",
+      "spec_price": 35
+    },
+    {
+      "id": 2395,
+      "perma_name": "black-tea",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ЧАЙ ЧОРНИЙ",
+      "description": "<p><strong>Чай чорний (пакетований).</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4275.png",
+          "medium": "files/medium/medium_4275.png",
+          "thumb": "files/thumbs/thumb_4275.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3236,
+          "price": 35,
+          "code": "BLKT",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2439
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 65,
+      "url": "product/black-tea",
+      "spec_price": 35
+    },
+    {
+      "id": 2466,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "ПУНШ \"СМОРОДИНА - БАЗИЛІК\"",
+      "description": "<p><strong>Пунш зі смаком смородини та базиліку.</strong> <br /><span style=\"color:#e03e2d;\"><strong>До складу напою входить мед!</strong></span></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4308.png",
+          "medium": "files/medium/medium_4308.png",
+          "thumb": "files/thumbs/thumb_4308.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3308,
+          "price": 60,
+          "code": "TEAPCB",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2547
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 66,
+      "url": "product/2466/пунш-\"смородина---базилік\"",
+      "spec_price": 60
+    },
+    {
+      "id": 2465,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ЧАЙ \"АПЕЛЬСИН - М'ЯТА\"",
+      "description": "<p><strong>Чай зі смаком апельсину та м'яти.</strong> <br /><span style=\"color:#e03e2d;\"><strong>До складу напою входить мед!</strong></span></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4307.png",
+          "medium": "files/medium/medium_4307.png",
+          "thumb": "files/thumbs/thumb_4307.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3307,
+          "price": 60,
+          "code": "TEAOM",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2546
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 67,
+      "url": "product/2465/чай-\"апельсин---м'ята\"",
+      "spec_price": 60
+    },
+    {
+      "id": 2397,
+      "perma_name": "green-tea-mango",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ЧАЙ ЗЕЛЕНИЙ З МАНГО",
+      "description": "<p><strong>Чай зелений з манго (пакетований)</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4272.png",
+          "medium": "files/medium/medium_4272.png",
+          "thumb": "files/thumbs/thumb_4272.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3239,
+          "price": 35,
+          "code": "GTMAN",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2441
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 68,
+      "url": "product/green-tea-mango",
+      "spec_price": 35
+    },
+    {
+      "id": 2396,
+      "perma_name": "black-tea-bergamot",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ЧАЙ ЧОРНИЙ З БЕРГАМОТОМ",
+      "description": "<p><strong>Чай чорний з бергамотом (пакетований).</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4274.png",
+          "medium": "files/medium/medium_4274.png",
+          "thumb": "files/thumbs/thumb_4274.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3237,
+          "price": 35,
+          "code": "BTBER",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2440
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 69,
+      "url": "product/black-tea-bergamot",
+      "spec_price": 35
+    },
+    {
+      "id": 2277,
+      "perma_name": "chefburger-spicy",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ШЕФБУРГЕР ГОСТРИЙ",
+      "description": "<p><strong>Куряче філе в гострій паніровці, соус \"Гамбургер\", томати та салат  під пшеничною булочкою.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 190 г. (466.4 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4399.png",
+          "medium": "files/medium/medium_4399.png",
+          "thumb": "files/thumbs/thumb_4399.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3118,
+          "price": 110,
+          "code": "CHBSC",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2664,
+          "q": 1
+        },
+        {
+          "id": 2665,
+          "q": 1
+        },
+        {
+          "id": 2667,
+          "q": 1
+        }
+      ],
+      "cats": [
+        1416
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 70,
+      "url": "product/chefburger-spicy",
+      "spec_price": 110
+    },
+    {
+      "id": 2278,
+      "perma_name": "chefburger",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ШЕФБУРГЕР",
+      "description": "<p><strong>Куряче філе в оригінальній паніровці, соус \"Гамбургер\", томати та салат  під пшеничною булочкою.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 193 г. (482.8 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4400.png",
+          "medium": "files/medium/medium_4400.png",
+          "thumb": "files/thumbs/thumb_4400.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3119,
+          "price": 110,
+          "code": "CHEFB",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2664,
+          "q": 1
+        },
+        {
+          "id": 2667,
+          "q": 1
+        },
+        {
+          "id": 2669,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2225
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 71,
+      "url": "product/chefburger",
+      "spec_price": 110
+    },
+    {
+      "id": 2456,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ТАУЕР БУРГЕР",
+      "description": "<p><strong>Філе у оригінальній паніровці, салат Айсберг з майонезом та кетчупом, картопляник, ніжний сир та хрустка булочка.</strong></p>\n<p> </p>\n<p> </p>\n<p><em>Вага продукту - 235 г. (645.5 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4296.jpg",
+          "medium": "files/medium/medium_4296.jpg",
+          "thumb": "files/thumbs/thumb_4296.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3298,
+          "price": 135,
+          "code": "TWR1",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2533
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 72,
+      "url": "product/2456/тауер-бургер",
+      "spec_price": 135
+    },
+    {
+      "id": 2457,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ТАУЕР БУРГЕР ГОСТРИЙ",
+      "description": "<p><strong>Філе у гострій паніровці, салат з майонезом та кетчупом, картопляник, ніжний сир та хрустка булочка.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 231 г. (629,1 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4290.png",
+          "medium": "files/medium/medium_4290.png",
+          "thumb": "files/thumbs/thumb_4290.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3299,
+          "price": 135,
+          "code": "TWRH1",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        1400
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 73,
+      "url": "product/2457/тауер-бургер-гострий",
+      "spec_price": 135
+    },
+    {
+      "id": 2279,
+      "perma_name": "cheeseburger-deluxe",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "КЕНТУККІ БУРГЕР",
+      "description": "<p><strong>Куряче філе в оригінальній паніровці, кетчуп та гірчичний соус, ніжний сир, салат та томати на пшеничній булочці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 212 г. (477.8 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4397.png",
+          "medium": "files/medium/medium_4397.png",
+          "thumb": "files/thumbs/thumb_4397.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3120,
+          "price": 115,
+          "code": "DLCHS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2663,
+          "q": 1
+        },
+        {
+          "id": 2665,
+          "q": 1
+        },
+        {
+          "id": 2668,
+          "q": 1
+        },
+        {
+          "id": 2669,
+          "q": 1
+        },
+        {
+          "id": 2672,
+          "q": 1
+        },
+        {
+          "id": 2673,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2317
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 74,
+      "url": "product/cheeseburger-deluxe",
+      "spec_price": 115
+    },
+    {
+      "id": 2446,
+      "perma_name": "classic",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "САНДЕРС КЛАСІК",
+      "description": "<p><strong>Філе в оригінальній паніровці, салат Айсберг з майонезом на пшеничній булочці з чорно-білим кунжутом.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 185 г. (470.2 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4191.png",
+          "medium": "files/medium/medium_4191.png",
+          "thumb": "files/thumbs/thumb_4191.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3288,
+          "price": 105,
+          "code": "CHSCL",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2511
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 75,
+      "url": "product/classic",
+      "spec_price": 105
+    },
+    {
+      "id": 2447,
+      "perma_name": "classic",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "САНДЕРС ЗІНГЕР",
+      "description": "<p><strong>Філе в гострій паніровці, салат Айсберг з майонезом на пшеничній булочці з чорно-білим кунжутом.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 182 г. (453.8 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4192.png",
+          "medium": "files/medium/medium_4192.png",
+          "thumb": "files/thumbs/thumb_4192.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3289,
+          "price": 105,
+          "code": "CHSZG",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2512
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 76,
+      "url": "product/classic",
+      "spec_price": 105
+    },
+    {
+      "id": 2282,
+      "perma_name": "cheeseburger",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "ЧІЗБУРГЕР",
+      "description": "<p><strong>Стріпс оригінальний, пряний гірчичний соус та кетчуп, огірки, ніжний сир на пшеничній булочці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 124 г. (319.3 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4360.jpg",
+          "medium": "files/medium/medium_4360.jpg",
+          "thumb": "files/thumbs/thumb_4360.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3123,
+          "price": 65,
+          "code": "CHSBG",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2663,
+          "q": 1
+        },
+        {
+          "id": 2665,
+          "q": 1
+        },
+        {
+          "id": 2672,
+          "q": 1
+        },
+        {
+          "id": 2673,
+          "q": 1
+        },
+        {
+          "id": 2724,
+          "q": 1
+        },
+        {
+          "id": 2727,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2320
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 77,
+      "url": "product/cheeseburger",
+      "spec_price": 65
+    },
+    {
+      "id": 2479,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "ДАБЛ ЧІЗБУРГЕР",
+      "description": "<p><strong>Два стріпси в оригінальній паніровці, кетчуп, гірчиця, огірки, 2 шматочки ніжного сиру з пшеничною булочкою.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 170 г. (482.5 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4361.jpg",
+          "medium": "files/medium/medium_4361.jpg",
+          "thumb": "files/thumbs/thumb_4361.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3321,
+          "price": 95,
+          "code": "DUCHE2",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2581
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 78,
+      "url": "product/2479/дабл-чізбургер",
+      "spec_price": 95
+    },
+    {
+      "id": 2284,
+      "perma_name": "toast-2-cheese",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "ТОСТ 2 СИРУ",
+      "description": "<p><strong>Тост з двома скибочками ніжного сиру на підрум'яненій булочці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 77 г. (212.7 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4119.jpg",
+          "medium": "files/medium/medium_4119.jpg",
+          "thumb": "files/thumbs/thumb_4119.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3125,
+          "price": 35,
+          "code": "TST2",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2322
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 79,
+      "url": "product/toast-2-cheese",
+      "spec_price": 35
+    },
+    {
+      "id": 2286,
+      "perma_name": "boxmaster",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "БОКСМАСТЕР ОРИГІНАЛЬНИЙ",
+      "description": "<p><strong>Куряче філе в оригінальній хрусткій паніровці, картопляник, скибочка сиру, томати та листя салату, майонез, загорнутi у гарячу тортілью.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 279 г. (736.8 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4187.png",
+          "medium": "files/medium/medium_4187.png",
+          "thumb": "files/thumbs/thumb_4187.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3127,
+          "price": 155,
+          "code": "BOXMR",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2663,
+          "q": 1
+        },
+        {
+          "id": 2665,
+          "q": 1
+        },
+        {
+          "id": 2672,
+          "q": 1
+        },
+        {
+          "id": 2673,
+          "q": 1
+        },
+        {
+          "id": 2676,
+          "q": 1
+        },
+        {
+          "id": 2726,
+          "q": 1
+        },
+        {
+          "id": 2730,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2228
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 80,
+      "url": "product/boxmaster",
+      "spec_price": 155
+    },
+    {
+      "id": 2291,
+      "perma_name": "twister-junior-special",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "ТВІСТЕР ДЖУНІОР СПЕШЛ",
+      "description": "<p><strong>Тортілья, гострі байтси з гірчичним соусом, маринованими огірками, кетчупом та сиром.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 134 г. (369.7 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4378.png",
+          "medium": "files/medium/medium_4378.png",
+          "thumb": "files/thumbs/thumb_4378.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3132,
+          "price": 65,
+          "code": "TWJSP",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2663,
+          "q": 1
+        },
+        {
+          "id": 2665,
+          "q": 1
+        },
+        {
+          "id": 2672,
+          "q": 1
+        },
+        {
+          "id": 2673,
+          "q": 1
+        },
+        {
+          "id": 2730,
+          "q": 1
+        },
+        {
+          "id": 2737,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2367
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 81,
+      "url": "product/twister-junior-special",
+      "spec_price": 65
+    },
+    {
+      "id": 2290,
+      "perma_name": "twister-toasted",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ТВІСТЕР ОРИГІНАЛЬНИЙ",
+      "description": "<p><strong>Шматочки курячого філе в оригінальній паніровці разом із листям салату, томатами та майонезом, що загорнуті в гарячу тортілью.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 185 г. (512 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4189.png",
+          "medium": "files/medium/medium_4189.png",
+          "thumb": "files/thumbs/thumb_4189.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3131,
+          "price": 115,
+          "code": "TWITS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2664,
+          "q": 1
+        },
+        {
+          "id": 2669,
+          "q": 1
+        },
+        {
+          "id": 2674,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2366
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 82,
+      "url": "product/twister-toasted",
+      "spec_price": 115
+    },
+    {
+      "id": 2289,
+      "perma_name": "twister-toasted-spicy",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "ТВІСТЕР ГОСТРИЙ",
+      "description": "<p><strong>Шматочки курячого філе в гострiй паніровці із листям салату, томатами та соусом загорнуті в гарячу тортілью.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 181 г. (477.4 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4188.png",
+          "medium": "files/medium/medium_4188.png",
+          "thumb": "files/thumbs/thumb_4188.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3130,
+          "price": 115,
+          "code": "TWTSP",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2664,
+          "q": 1
+        },
+        {
+          "id": 2669,
+          "q": 1
+        },
+        {
+          "id": 2674,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2365
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 83,
+      "url": "product/twister-toasted-spicy",
+      "spec_price": 115
+    },
+    {
+      "id": 2292,
+      "perma_name": "i-twister",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "АЙ-ТВІСТЕР СИРНИЙ",
+      "description": "<p><strong>Соковита гостра курочка з сирним соусом, салатом Айсберг та томатами в пшеничній тортильї.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 110 г. (293,20 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4379.png",
+          "medium": "files/medium/medium_4379.png",
+          "thumb": "files/thumbs/thumb_4379.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3133,
+          "price": 55,
+          "code": "ITWST",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2368
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 84,
+      "url": "product/i-twister",
+      "spec_price": 55
+    },
+    {
+      "id": 2458,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "КЕСАДИЛЬЯ З ТОМАТАМИ",
+      "description": "<p><strong>Пшенична тортилья з гострими курячими байтсами, сирний соус, томати та ніжний сир.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 156 г. (456.1 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4376.png",
+          "medium": "files/medium/medium_4376.png",
+          "thumb": "files/thumbs/thumb_4376.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3300,
+          "price": 85,
+          "code": "QSDLT",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2535
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 85,
+      "url": "product/2458/кесадилья-з-томатами",
+      "spec_price": 85
+    },
+    {
+      "id": 2297,
+      "perma_name": "bucket-8-drumsticks",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "БАКЕТ 8 ОРИГІНАЛЬНИХ НІЖОК",
+      "description": "<p><strong>8 ніжок обсмажених в хрусткій оригінальній паніровці.</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4123.jpg",
+          "medium": "files/medium/medium_4123.jpg",
+          "thumb": "files/thumbs/thumb_4123.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3138,
+          "price": 310,
+          "code": "BUCK8D",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2248
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 86,
+      "url": "product/bucket-8-drumsticks",
+      "spec_price": 310
+    },
+    {
+      "id": 2298,
+      "perma_name": "bucket-duet-spicy",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "ДУЕТ БАКЕТ ГОСТРИЙ",
+      "description": "<p>2 ніжки у гострій паніровці, 4 крильця у гострій паніровці , 4 стріпси гострих та картопля фрі.</p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4092.png",
+          "medium": "files/medium/medium_4092.png",
+          "thumb": "files/thumbs/thumb_4092.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3139,
+          "price": 285,
+          "code": "BCKDS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2249
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 87,
+      "url": "product/bucket-duet-spicy",
+      "spec_price": 285
+    },
+    {
+      "id": 2293,
+      "perma_name": "bucket-large",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "ХОТ БАКЕТ 26",
+      "description": "<p><strong>26 крилець в гострій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 650 г. (1855.75 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4375.png",
+          "medium": "files/medium/medium_4375.png",
+          "thumb": "files/thumbs/thumb_4375.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3134,
+          "price": 440,
+          "code": "BUCKL",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2244
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 88,
+      "url": "product/bucket-large",
+      "spec_price": 440
+    },
+    {
+      "id": 2294,
+      "perma_name": "bucket-medium",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "ХОТ БАКЕТ 18",
+      "description": "<p><strong>18 курячих крилець в гострій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 450 г. (1284.75 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4374.png",
+          "medium": "files/medium/medium_4374.png",
+          "thumb": "files/thumbs/thumb_4374.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3135,
+          "price": 340,
+          "code": "BUCKM",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2245
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 89,
+      "url": "product/bucket-medium",
+      "spec_price": 340
+    },
+    {
+      "id": 2295,
+      "perma_name": "bucket-small",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "ХОТ БАКЕТ 12",
+      "description": "<p><strong>12 крилець в гострій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 300 г. (856.5 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4373.png",
+          "medium": "files/medium/medium_4373.png",
+          "thumb": "files/thumbs/thumb_4373.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3136,
+          "price": 260,
+          "code": "BUCKS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2246
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 90,
+      "url": "product/bucket-small",
+      "spec_price": 260
+    },
+    {
+      "id": 2425,
+      "perma_name": "bucket-bites",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "БАЙТС БАКЕТ",
+      "description": "<p><strong>Бакет оригінальних шматочків курочки у хрусткій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту  - 300 г. (953.7 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4371.png",
+          "medium": "files/medium/medium_4371.png",
+          "thumb": "files/thumbs/thumb_4371.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3267,
+          "price": 175,
+          "code": "BUCK8D",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2248
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 91,
+      "url": "product/bucket-bites",
+      "spec_price": 175
+    },
+    {
+      "id": 2301,
+      "perma_name": "sanders-bucket",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "САНДЕРС БАКЕТ",
+      "description": "<p><em><strong>Бакет від Полковника Сандерса! 1 ніжка оригінальні, 2 гострих крильця,  2 стріпси оригінальні та гострі байтси.</strong></em></p>\n<p> </p>\n<p><em>Вага продукту - 256 г. (741.6 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4377.png",
+          "medium": "files/medium/medium_4377.png",
+          "thumb": "files/thumbs/thumb_4377.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3142,
+          "price": 170,
+          "code": "SANBK",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2252
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 92,
+      "url": "product/sanders-bucket",
+      "spec_price": 170
+    },
+    {
+      "id": 2318,
+      "perma_name": "3-spicy-wings",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "ГОСТРІ КРИЛЬЦЯ 3ШТ",
+      "description": "<p><strong>3 гострих курячих крильця в хрусткій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 75 г. (214.3 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3786.jpg",
+          "medium": "files/medium/medium_3786.jpg",
+          "thumb": "files/thumbs/thumb_3786.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3159,
+          "price": 70,
+          "code": "3SPWG",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2383
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 93,
+      "url": "product/3-spicy-wings",
+      "spec_price": 70
+    },
+    {
+      "id": 2408,
+      "perma_name": "eight-strips-spicy",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "8 СТРІПСІВ ГОСТРИХ",
+      "description": "<p><strong>8 шматочків курячого філе, в гострій хрусткій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 248 г. (680.76 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4098.png",
+          "medium": "files/medium/medium_4098.png",
+          "thumb": "files/thumbs/thumb_4098.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3250,
+          "price": 180,
+          "code": "EGSPY",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2487
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 94,
+      "url": "product/eight-strips-spicy",
+      "spec_price": 180
+    },
+    {
+      "id": 2409,
+      "perma_name": "eight-strips",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "8 СТРІПСІВ ОРИГІНАЛЬНИХ",
+      "description": "<p><strong>8 шматочків ніжного курячого філе в хрусткій оригінальній паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 272 г. (809.7 ККАЛ).  </em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4056.jpg",
+          "medium": "files/medium/medium_4056.jpg",
+          "thumb": "files/thumbs/thumb_4056.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3251,
+          "price": 180,
+          "code": "EISPT",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2488
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 95,
+      "url": "product/eight-strips",
+      "spec_price": 180
+    },
+    {
+      "id": 2410,
+      "perma_name": "five-strips-spicy",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "5 СТРІПСІВ ГОСТРИХ",
+      "description": "<p><strong>5 шматочків курячого філе, обсмаженого в гострій хрусткій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 155 г. (425.4 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4099.png",
+          "medium": "files/medium/medium_4099.png",
+          "thumb": "files/thumbs/thumb_4099.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3252,
+          "price": 120,
+          "code": "FESPC",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2489
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 96,
+      "url": "product/five-strips-spicy",
+      "spec_price": 120
+    },
+    {
+      "id": 2411,
+      "perma_name": "five-strips",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "5 СТРІПСІВ ОРИГІНАЛЬНИХ",
+      "description": "<p><strong>5 шматочків ніжного курячого філе в хрусткій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 170 г. (506 ККАЛ). </em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4053.jpg",
+          "medium": "files/medium/medium_4053.jpg",
+          "thumb": "files/thumbs/thumb_4053.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3253,
+          "price": 120,
+          "code": "EIRIP",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2490
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 97,
+      "url": "product/five-strips",
+      "spec_price": 120
+    },
+    {
+      "id": 2323,
+      "perma_name": "3-strips-spicy",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "3 СТРІПСИ ГОСТРІ",
+      "description": "<p><strong>3 шматочки хрусткого курячого філе в гострій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 93 г. (255.2 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3785.jpg",
+          "medium": "files/medium/medium_3785.jpg",
+          "thumb": "files/thumbs/thumb_3785.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3164,
+          "price": 80,
+          "code": "3STSP",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2388
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 98,
+      "url": "product/3-strips-spicy",
+      "spec_price": 80
+    },
+    {
+      "id": 2324,
+      "perma_name": "3-strips",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "3 СТРІПСИ ОРИГІНАЛЬНІ",
+      "description": "<p><strong>3 шматочки хрусткого курячого філе в оригінальній паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 102 г. (303,65 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3798.jpg",
+          "medium": "files/medium/medium_3798.jpg",
+          "thumb": "files/thumbs/thumb_3798.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3165,
+          "price": 80,
+          "code": "3STRI",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2389
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 99,
+      "url": "product/3-strips",
+      "spec_price": 80
+    },
+    {
+      "id": 2307,
+      "perma_name": "4-spicy-drumsticks",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "4 НІЖКИ ГОСТРІ",
+      "description": "<p><strong>4 хрусткі ніжки обсмажені в гострій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 336 г. (873.2 ККАЛ).</em> </p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4100.png",
+          "medium": "files/medium/medium_4100.png",
+          "thumb": "files/thumbs/thumb_4100.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3148,
+          "price": 160,
+          "code": "4SPDS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2222
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 100,
+      "url": "product/4-spicy-drumsticks",
+      "spec_price": 160
+    },
+    {
+      "id": 2308,
+      "perma_name": "4-drumstick",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "4 НІЖКИ ОРИГІНАЛЬНІ",
+      "description": "<p><strong>4 хрусткі ніжки обсмажені в оригінальній паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 336 г. (815.4 ККАЛ). </em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3790.jpg",
+          "medium": "files/medium/medium_3790.jpg",
+          "thumb": "files/thumbs/thumb_3790.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3149,
+          "price": 160,
+          "code": "4DRUM",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2223
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 101,
+      "url": "product/4-drumstick",
+      "spec_price": 160
+    },
+    {
+      "id": 2309,
+      "perma_name": "3-spicy-drumsticks",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "3 НІЖКИ ГОСТРІ",
+      "description": "<p><strong>3 хрусткі ніжки в гострій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 252 г. (654.9 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4101.png",
+          "medium": "files/medium/medium_4101.png",
+          "thumb": "files/thumbs/thumb_4101.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3150,
+          "price": 125,
+          "code": "3SPDS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2371
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 102,
+      "url": "product/3-spicy-drumsticks",
+      "spec_price": 125
+    },
+    {
+      "id": 2310,
+      "perma_name": "3-drumstick",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "3 НІЖКИ ОРИГІНАЛЬНІ",
+      "description": "<p><strong>3 хрусткі ніжки в оригінальній паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 252 г. (611.6 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3799.jpg",
+          "medium": "files/medium/medium_3799.jpg",
+          "thumb": "files/thumbs/thumb_3799.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3151,
+          "price": 125,
+          "code": "3DRUM",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2375
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 103,
+      "url": "product/3-drumstick",
+      "spec_price": 125
+    },
+    {
+      "id": 2311,
+      "perma_name": "2-spicy-drumsticks",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "2 НІЖКИ ГОСТРИХ",
+      "description": "<p><strong>2 хрусткі ніжки обсмажені в гострій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 168 г. (436.6 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4282.png",
+          "medium": "files/medium/medium_4282.png",
+          "thumb": "files/thumbs/thumb_4282.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3152,
+          "price": 90,
+          "code": "2SPDS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2376
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 104,
+      "url": "product/2-spicy-drumsticks",
+      "spec_price": 90
+    },
+    {
+      "id": 2312,
+      "perma_name": "2-drumstick",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "2 НІЖКИ ОРИГІНАЛЬНІ",
+      "description": "<p><strong>2 ніжки обсмажені в хрусткій оригінальній паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 168 г. (407.7 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4283.png",
+          "medium": "files/medium/medium_4283.png",
+          "thumb": "files/thumbs/thumb_4283.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3153,
+          "price": 90,
+          "code": "2DRUM",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2377
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 105,
+      "url": "product/2-drumstick",
+      "spec_price": 90
+    },
+    {
+      "id": 2313,
+      "perma_name": "1-spicy-drumstick",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "1 НІЖКА ГОСТРА",
+      "description": "<p><strong>1 ніжка обсмажена в хрусткій гострій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 84 г. (218.3 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4102.png",
+          "medium": "files/medium/medium_4102.png",
+          "thumb": "files/thumbs/thumb_4102.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3154,
+          "price": 45,
+          "code": "1SPDS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2378
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 106,
+      "url": "product/1-spicy-drumstick",
+      "spec_price": 45
+    },
+    {
+      "id": 2314,
+      "perma_name": "1-drumstick",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "1 НІЖКА ОРИГІНАЛЬНА",
+      "description": "<p><strong>Ніжка обсмажена в хрусткій оригінальній паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 84 г. (203.8 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3783.jpg",
+          "medium": "files/medium/medium_3783.jpg",
+          "thumb": "files/thumbs/thumb_3783.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3155,
+          "price": 45,
+          "code": "1DRUM",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2379
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 107,
+      "url": "product/1-drumstick",
+      "spec_price": 45
+    },
+    {
+      "id": 2305,
+      "perma_name": "bites-teriyaki",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "БАЙТС ТЕРІЯКІ",
+      "description": "<p><strong>Шматочки курячого гострого філе з кунжутом, в соусі Теріякі.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 180 г. (581.2 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4372.png",
+          "medium": "files/medium/medium_4372.png",
+          "thumb": "files/thumbs/thumb_4372.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3146,
+          "price": 140,
+          "code": "BTTYK",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2677,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2220
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 108,
+      "url": "product/bites-teriyaki",
+      "spec_price": 140
+    },
+    {
+      "id": 2306,
+      "perma_name": "bites",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "БАЙТС",
+      "description": "<p><strong>Гострі шматочки курочки у хрусткій паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 135г. (429.17 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4369.png",
+          "medium": "files/medium/medium_4369.png",
+          "thumb": "files/thumbs/thumb_4369.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3147,
+          "price": 85,
+          "code": "BITES",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2221
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 109,
+      "url": "product/bites",
+      "spec_price": 85
+    },
+    {
+      "id": 2326,
+      "perma_name": "20-nuggets",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "20 НАГЕТСІВ",
+      "description": "<p><strong>20 нагетсів із соковитої курки в оригінальній паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 300 г. (1351.6 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3801.jpg",
+          "medium": "files/medium/medium_3801.jpg",
+          "thumb": "files/thumbs/thumb_3801.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3167,
+          "price": 250,
+          "code": "20NGT",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2391
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 110,
+      "url": "product/20-nuggets",
+      "spec_price": 250
+    },
+    {
+      "id": 2329,
+      "perma_name": "9-nuggets",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "9 НАГЕТСІВ",
+      "description": "<p><strong>9 нагетсів із соковитої курки в оригінальній паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 135 г. (608.7 ККАЛ). </em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4115.png",
+          "medium": "files/medium/medium_4115.png",
+          "thumb": "files/thumbs/thumb_4115.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3170,
+          "price": 120,
+          "code": "9NGTS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2394
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 111,
+      "url": "product/9-nuggets",
+      "spec_price": 120
+    },
+    {
+      "id": 2330,
+      "perma_name": "6-nuggets",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "6 НАГЕТСІВ",
+      "description": "<p><strong>6 нагетсів із соковитої курки в оригінальній паніровці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 90 г. (405.5 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4116.png",
+          "medium": "files/medium/medium_4116.png",
+          "thumb": "files/thumbs/thumb_4116.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3171,
+          "price": 85,
+          "code": "6NGTS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2395
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 112,
+      "url": "product/6-nuggets",
+      "spec_price": 85
+    },
+    {
+      "id": 2427,
+      "perma_name": "cheeseburger",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "ЧІКЕН ДЖУНІОР",
+      "description": "<p><strong>Стріпс оригінальний, соус \"Бургер\", огірки на пшеничній булочці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 101 г. (290.9 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4359.jpg",
+          "medium": "files/medium/medium_4359.jpg",
+          "thumb": "files/thumbs/thumb_4359.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3269,
+          "price": 60,
+          "code": "CHSBG",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2663,
+          "q": 1
+        },
+        {
+          "id": 2665,
+          "q": 1
+        },
+        {
+          "id": 2672,
+          "q": 1
+        },
+        {
+          "id": 2673,
+          "q": 1
+        },
+        {
+          "id": 2724,
+          "q": 1
+        },
+        {
+          "id": 2728,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2526
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 113,
+      "url": "product/cheeseburger",
+      "spec_price": 60
+    },
+    {
+      "id": 2404,
+      "perma_name": "ukranian-toast",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "ТОСТ УКРАЇНСЬКИЙ",
+      "description": "<p><strong>Тост з двома скибочками ніжного сиру та хеш брауном на підрум'яненій булочці.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 118 г. (366.2 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4120.jpg",
+          "medium": "files/medium/medium_4120.jpg",
+          "thumb": "files/thumbs/thumb_4120.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3246,
+          "price": 50,
+          "code": "BRUKT",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": [
+        {
+          "id": 2676,
+          "q": 1
+        },
+        {
+          "id": 2724,
+          "q": 1
+        },
+        {
+          "id": 2729,
+          "q": 1
+        }
+      ],
+      "cats": [
+        2483
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 114,
+      "url": "product/ukranian-toast",
+      "spec_price": 50
+    },
+    {
+      "id": 2412,
+      "perma_name": "mango-chili-sauce",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "МАНГО ЧІЛІ СОУС",
+      "description": "<p><strong>Насичений соус манго-чилі.</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/3860.jpg",
+          "medium": "files/medium/medium_3860.jpg",
+          "thumb": "files/thumbs/thumb_3860.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3254,
+          "price": 25,
+          "code": "MNGLS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        1841
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 115,
+      "url": "product/mango-chili-sauce",
+      "spec_price": 25
+    },
+    {
+      "id": 2413,
+      "perma_name": "1236",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 4,
+      "title": "1236",
+      "description": "<p>Наггетси 9 шт + Картопля Фрі стандарт + НАПОЇ ГАЗОВАНІ 0,5 (ПЕПСІ, МІРІНДІ АБО СЕВЕН АП)</p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4046.jpg",
+          "medium": "files/medium/medium_4046.jpg",
+          "thumb": "files/thumbs/thumb_4046.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3255,
+          "price": 109,
+          "code": "1236",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2491
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 116,
+      "url": "product/1236",
+      "spec_price": 109
+    },
+    {
+      "id": 2414,
+      "perma_name": "1235",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 4,
+      "title": "1235",
+      "description": "<p>ТВИСТЕР + Капучино 0,3</p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4045.jpg",
+          "medium": "files/medium/medium_4045.jpg",
+          "thumb": "files/thumbs/thumb_4045.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3256,
+          "price": 79,
+          "code": "1235",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2491
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 117,
+      "url": "product/1235",
+      "spec_price": 79
+    },
+    {
+      "id": 2415,
+      "perma_name": "1233",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 4,
+      "title": "1233",
+      "description": "<p>Стріпси 5 шт + Картопля Фрі стандарт + НАПОЇ ГАЗОВАНІ 0,5 (ПЕПСІ, МІРІНДІ АБО СЕВЕН АП)</p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4044.jpg",
+          "medium": "files/medium/medium_4044.jpg",
+          "thumb": "files/thumbs/thumb_4044.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3257,
+          "price": 119,
+          "code": "1233",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2491
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 118,
+      "url": "product/1233",
+      "spec_price": 119
+    },
+    {
+      "id": 2416,
+      "perma_name": "1228",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 4,
+      "title": "1228",
+      "description": "<p>2 Байтси з курячого філе + Фрі баскет</p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4043.jpg",
+          "medium": "files/medium/medium_4043.jpg",
+          "thumb": "files/thumbs/thumb_4043.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3258,
+          "price": 129,
+          "code": "1228",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2491
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 119,
+      "url": "product/1228",
+      "spec_price": 129
+    },
+    {
+      "id": 2417,
+      "perma_name": "1225",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 4,
+      "title": "1225",
+      "description": "<p>Дабл Шефбургер Оригінальний + Картопля Фрі стандарт + НАПОЇ ГАЗОВАНІ 0,5 (ПЕПСІ, МІРІНДІ АБО СЕВЕН АП)</p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4042.jpg",
+          "medium": "files/medium/medium_4042.jpg",
+          "thumb": "files/thumbs/thumb_4042.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3259,
+          "price": 149,
+          "code": "1225",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2491
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 120,
+      "url": "product/1225",
+      "spec_price": 149
+    },
+    {
+      "id": 2418,
+      "perma_name": "1222",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 4,
+      "title": "1222",
+      "description": "<p>2 ШЕФБУРГЕР + 2 Картоплі Фрі стандарт + 2 НАПОЇ ГАЗОВАНІ 0,5 (ПЕПСІ, МІРІНДІ АБО СЕВЕН АП)</p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4041.jpg",
+          "medium": "files/medium/medium_4041.jpg",
+          "thumb": "files/thumbs/thumb_4041.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3260,
+          "price": 219,
+          "code": "1222",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2491
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 121,
+      "url": "product/1222",
+      "spec_price": 219
+    },
+    {
+      "id": 2419,
+      "perma_name": "1216",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 4,
+      "title": "1216",
+      "description": "<p>ТВИСТЕР ДЕ ЛЮКС ОРИГИНАЛЬНЫЙ СПЕШЛ + АЙ-ТВИСТЕР</p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4040.jpg",
+          "medium": "files/medium/medium_4040.jpg",
+          "thumb": "files/thumbs/thumb_4040.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3261,
+          "price": 89,
+          "code": "1216",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2491
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 122,
+      "url": "product/1216",
+      "spec_price": 89
+    },
+    {
+      "id": 2296,
+      "perma_name": "bucket-8-drumsticks-spicy",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "БАКЕТ 8 ГОСТРИХ НІЖОК",
+      "description": "<p><strong>8 ніжок обсмажених в хрусткій гострій паніровці.</strong></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4122.jpg",
+          "medium": "files/medium/medium_4122.jpg",
+          "thumb": "files/thumbs/thumb_4122.jpg"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3137,
+          "price": 310,
+          "code": "BUCK8",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2247
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 123,
+      "url": "product/bucket-8-drumsticks-spicy",
+      "spec_price": 310
+    },
+    {
+      "id": 2485,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 3,
+      "title": "МЕНЮ З СТРІПСАМИ",
+      "description": "<p><em><strong>5 соковитих стріпс, хруста картопелька фрі та газований напій 0.5л!</strong></em></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4403.png",
+          "medium": "files/medium/medium_4403.png",
+          "thumb": "files/thumbs/thumb_4403.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3327,
+          "price": 195,
+          "code": "5SMENU",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2601
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 124,
+      "url": "product/2485/меню-з-стріпсами",
+      "spec_price": 195
+    },
+    {
+      "id": 2431,
+      "perma_name": "Snack_2_original_strips_small_fries",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "СНЕК 2 СТРІПСИ ОРИГІНАЛЬНИХ ТА МАЛЕНЬКА КАРТОПЛЯ ФРІ",
+      "description": "<p><strong>2 стріпси обсмажені в хрусткій паніровці з малою картоплею фрі.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 138 г. (428.4 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4148.png",
+          "medium": "files/medium/medium_4148.png",
+          "thumb": "files/thumbs/thumb_4148.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3273,
+          "price": 90,
+          "code": "SOSSF",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2590
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 125,
+      "url": "product/Snack_2_original_strips_small_fries",
+      "spec_price": 90
+    },
+    {
+      "id": 2432,
+      "perma_name": "Snack_2_spicy_strips_small_fries",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "СНЕК 2 СТРІПСИ ГОСТРИХ ТА МАЛЕНЬКА КАРТОПЛЯ ФРІ",
+      "description": "<p><strong>2 стріпси обсмажені в гострій хрусткій паніровці з малою картоплею фрі.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 132 г. (397.2 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4149.png",
+          "medium": "files/medium/medium_4149.png",
+          "thumb": "files/thumbs/thumb_4149.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3274,
+          "price": 90,
+          "code": "SSSSF",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2591
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 126,
+      "url": "product/Snack_2_spicy_strips_small_fries",
+      "spec_price": 90
+    },
+    {
+      "id": 2433,
+      "perma_name": "Snack_5_nuggets_small_fries",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "СНЕК 5 НАГЕТСІВ ТА МАЛЕНЬКА КАРТОПЛЯ ФРІ",
+      "description": "<p><strong>Нагетси із соковитої курки в оригінальній паніровці з малою картоплею фрі.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 145 г. (566.4 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4150.png",
+          "medium": "files/medium/medium_4150.png",
+          "thumb": "files/thumbs/thumb_4150.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3275,
+          "price": 90,
+          "code": "SNSF",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2592
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 127,
+      "url": "product/Snack_5_nuggets_small_fries",
+      "spec_price": 90
+    },
+    {
+      "id": 2434,
+      "perma_name": "Snack_bytes_small_fries",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "СНЕК З БАЙТСАМИ ТА МАЛЕНЬКОЮ КАРТОПЛЕЮ ФРІ",
+      "description": "<p><strong>Гострі шматочки курочки у хрусткій паніровці з малою картоплею фрі.</strong></p>\n<p> </p>\n<p><em>Вага продукту - 160 г. (511.9 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": true,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4151.png",
+          "medium": "files/medium/medium_4151.png",
+          "thumb": "files/thumbs/thumb_4151.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3276,
+          "price": 90,
+          "code": "SBSF",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2593
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 128,
+      "url": "product/Snack_bytes_small_fries",
+      "spec_price": 90
+    },
+    {
+      "id": 2450,
+      "perma_name": "sandora-сherry -200",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 7,
+      "title": "СІК \"SANDORA\" ВИШНЯ 0,2Л.",
+      "description": "<p><strong>Сік \"Сандора\" зі смаком вишні 0,2л.</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4212.png",
+          "medium": "files/medium/medium_4212.png",
+          "thumb": "files/thumbs/thumb_4212.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3292,
+          "price": 25,
+          "code": "SNDCH20",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2515
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 129,
+      "url": "product/sandora-сherry -200",
+      "spec_price": 25
+    },
+    {
+      "id": 2374,
+      "perma_name": "milkshakes-strawberry-300ml",
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "МІЛКШЕЙК ПОЛУНИЦЯ  0.33 Л",
+      "description": "<p><strong>Ніжний молочний коктейль полуничний (0.33 л).</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4256.png",
+          "medium": "files/medium/medium_4256.png",
+          "thumb": "files/thumbs/thumb_4256.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3215,
+          "price": 60,
+          "code": "STR30",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2256
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 130,
+      "url": "product/milkshakes-strawberry-300ml",
+      "spec_price": 60
+    },
+    {
+      "id": 2481,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 2,
+      "title": "ГРАНДЕР БАРБЕКЮ",
+      "description": "<p><strong>Неймовірний Грандер Барбекю (Куряче філе в оригінальній паніровці, салат Айсберг, томати, соус майонез та барбекю, ніжний сир та хрустка булочка) вже у всіх ресторанах KFC !</strong></p>\n<p> </p>\n<p> </p>\n<p>Вага продукту - 286 г. (588.3 ККАЛ).</p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 0,
+      "imgs": [
+        {
+          "large": "files/4385.png",
+          "medium": "files/medium/medium_4385.png",
+          "thumb": "files/thumbs/thumb_4385.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3323,
+          "price": 165,
+          "code": "GDBBQOR",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2595
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 131,
+      "url": "product/2481/грандер-барбекю",
+      "spec_price": 165
+    },
+    {
+      "id": 2482,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 6,
+      "title": "ГРАНДЕР БАРБЕКЮ ГОСТРИЙ",
+      "description": "<p><strong>Неймовірний Грандер Барбекю (Куряче філе в гострій паніровці, салат Айсберг, томати, соус майонез та барбекю, ніжний сир та хрустка булочка) вже на всіх ресторанах KFC !</strong></p>\n<p> </p>\n<p><em>Вага продукту - 286 г. (588.3 ККАЛ).</em></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 0,
+      "imgs": [
+        {
+          "large": "files/4386.png",
+          "medium": "files/medium/medium_4386.png",
+          "thumb": "files/thumbs/thumb_4386.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3324,
+          "price": 165,
+          "code": "GRBBQHS",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2596
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 132,
+      "url": "product/2482/грандер-барбекю-гострий",
+      "spec_price": 165
+    },
+    {
+      "id": 2484,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 2,
+      "title": "МЕНЮ З НІЖКАМИ",
+      "description": "<p><em><strong>3 соковиті ніжки у оригінальній паніровці, хрустка картопелька фрі та газований напій 0.5л!</strong></em></p>\n<p> </p>\n<p> </p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4402.png",
+          "medium": "files/medium/medium_4402.png",
+          "thumb": "files/thumbs/thumb_4402.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3326,
+          "price": 195,
+          "code": "3LMENU",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2600
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 133,
+      "url": "product/2484/меню-з-ніжками",
+      "spec_price": 195
+    },
+    {
+      "id": 2486,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 10,
+      "title": "МЕНЮ З НАГЕТСАМИ",
+      "description": "<p><em><strong>9 соковитих нагетсів, хрустка картопелька фрі та газований напій 0.5л!</strong></em></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4404.png",
+          "medium": "files/medium/medium_4404.png",
+          "thumb": "files/thumbs/thumb_4404.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3328,
+          "price": 195,
+          "code": "9NMENU",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2603
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 134,
+      "url": "product/2486/меню-з-нагетсами",
+      "spec_price": 195
+    },
+    {
+      "id": 2487,
+      "perma_name": null,
+      "preorder": false,
+      "featured": false,
+      "featured_ordering": 5,
+      "title": "МЕНЮ З КРИЛЬЦЯМИ",
+      "description": "<p><em><strong>5 соковитих крилець у гострій паніровці, хруста картопелька фрі та газований напій 0.5л!</strong></em></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4405.png",
+          "medium": "files/medium/medium_4405.png",
+          "thumb": "files/thumbs/thumb_4405.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3329,
+          "price": 195,
+          "code": "5WNENU",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2602
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 135,
+      "url": "product/2487/меню-з-крильцями",
+      "spec_price": 195
+    },
+    {
+      "id": 2490,
+      "perma_name": null,
+      "preorder": false,
+      "featured": true,
+      "featured_ordering": 2,
+      "title": "РИС БОКС ТЕРІЯКІ",
+      "description": "<p><strong>Надзвичайний рис з овочами та шматочками курячого гострого філе з додаванням кунжуту у соусі теріякі!</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4429.png",
+          "medium": "files/medium/medium_4429.png",
+          "thumb": "files/thumbs/thumb_4429.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3332,
+          "price": 160,
+          "code": "TLRBT",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2610
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 136,
+      "url": "product/2490/рис-бокс-теріякі",
+      "spec_price": 160
+    },
+    {
+      "id": 2491,
+      "perma_name": null,
+      "preorder": false,
+      "featured": true,
+      "featured_ordering": 3,
+      "title": "ТВІСТЕР ТЕРІЯКІ",
+      "description": "<p><strong>Хрустка тортілья, соковите куряче філе в оригінальній паніровці разом із  свіжим листями салату, кунжутом, соусом майонез та теріякі</strong><strong>!</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4430.png",
+          "medium": "files/medium/medium_4430.png",
+          "thumb": "files/thumbs/thumb_4430.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3333,
+          "price": 125,
+          "code": "TLTTO",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2607
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 137,
+      "url": "product/2491/твістер-теріякі",
+      "spec_price": 125
+    },
+    {
+      "id": 2492,
+      "perma_name": null,
+      "preorder": false,
+      "featured": true,
+      "featured_ordering": 4,
+      "title": "БУРГЕР ТЕРІЯКІ",
+      "description": "<p><strong>Соковите куряче філе в оригінальній паніровці, свіжий салат айсберг, кунжут, соус майонез та теріякі під хрусткою пшеничною булочкою!</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4431.png",
+          "medium": "files/medium/medium_4431.png",
+          "thumb": "files/thumbs/thumb_4431.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3334,
+          "price": 120,
+          "code": "TLBTO",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2606
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 138,
+      "url": "product/2492/бургер-теріякі",
+      "spec_price": 120
+    },
+    {
+      "id": 2493,
+      "perma_name": null,
+      "preorder": false,
+      "featured": true,
+      "featured_ordering": 5,
+      "title": "5 СТРІПСІВ ТЕРІЯКІ",
+      "description": "<p><strong>5 шматочнів курячого філе, обсмажених у хрустій оригінальній паніровці з додаванням кунжуту та соусу теріякі!</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4432.png",
+          "medium": "files/medium/medium_4432.png",
+          "thumb": "files/thumbs/thumb_4432.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3335,
+          "price": 145,
+          "code": "TL5ST",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2608
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 139,
+      "url": "product/2493/5-стріпсів-теріякі",
+      "spec_price": 145
+    },
+    {
+      "id": 2494,
+      "perma_name": null,
+      "preorder": false,
+      "featured": true,
+      "featured_ordering": 6,
+      "title": "2 НІЖКИ ТЕРІЯКІ",
+      "description": "<p><strong>2 хрусткі ніжки в оригінальній паніровці з додаванням кунжуту та соусу теріякі!</strong></p>",
+      "content": null,
+      "customizable": false,
+      "serialized": false,
+      "hide_from_menu": 0,
+      "catch_weight": false,
+      "percent_vat": 20,
+      "imgs": [
+        {
+          "large": "files/4433.png",
+          "medium": "files/medium/medium_4433.png",
+          "thumb": "files/thumbs/thumb_4433.png"
+        }
+      ],
+      "specs": [
+        {
+          "id": 3336,
+          "price": 105,
+          "code": "LT2LO",
+          "size_id": null,
+          "color_id": null,
+          "lp": 0,
+          "offer_price": null
+        }
+      ],
+      "raw_materials": null,
+      "cats": [
+        2609
+      ],
+      "brands": [],
+      "related": [],
+      "tags": [],
+      "hidden": false,
+      "mats_max": null,
+      "free_mats": 0,
+      "mgmin": null,
+      "order": 140,
+      "url": "product/2494/2-ніжки-теріякі",
+      "spec_price": 105
+    }
+  ]
