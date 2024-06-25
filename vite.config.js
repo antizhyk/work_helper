@@ -15,6 +15,12 @@ const manifestForPlugIn = {
       purpose:'favicon'
     },
     {
+      src: '/desc-icon.png',
+      sizes:'144x144',
+      type:'image/png',
+      purpose:'favicon'
+    },
+    {
       src:'/android-chrome-512x512.png',
       sizes:'512x512',
       type:'image/png',
