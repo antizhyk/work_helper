@@ -11,5 +11,17 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker
+          .register("sw.js")
+          .then(function (registration) {
+            console.log("success load");
+          })
+          .catch(function (err) {
+            console.log(err);
+          });
+       }
+    </script>
   </body>
 </html>
