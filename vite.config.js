@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react-swc'
 import { VitePWA } from "vite-plugin-pwa";
 const manifestForPlugIn = {
   registerType:'prompt',
-  includeAssests:['favicon.ico', "apple-touc-icon.png", "masked-icon.svg"],
+  includeAssests:['favicon.ico', "apple-touc-icon.png", "masked-icon.svg", "desc-icon.png"],
   manifest:{
     name:"React-vite-app",
     short_name:"react-vite-app",
