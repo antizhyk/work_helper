@@ -43,5 +43,27 @@ const manifestForPlugIn = {
 }
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react(), VitePWA(manifestForPlugIn)],
+  plugins: [
+    react(),
+    VitePWA({
+      manifest: manifestForPlugIn,
+      workbox: {
+        globDirectory: 'public',
+        globPatterns: ['**/*.{js,css,html,png,jpg,svg,json}'],
+        runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.origin === self.location.origin,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'my-cache',
+              expiration: {
+                maxEntries: 50,
+                maxAgeSeconds: 30 * 24 * 60 * 60 // 30 дней
+              }
+            }
+          }
+        ]
+      }
+    })
+  ]
 })
