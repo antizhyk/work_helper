@@ -9,34 +9,26 @@ const manifestForPlugIn = {
     short_name:"react-vite-app",
     description:"I am a simple vite app",
     icons:[{
-      src: '/android-chrome-192x192.png',
-      sizes:'192x192',
-      type:'image/png',
-      purpose:'favicon'
+      src: 'pwa-64x64.png',
+      sizes: '64x64',
+      type: 'image/png'
     },
     {
-      src: '/desc-icon.png',
-      sizes:'144x144',
-      type:'image/png',
-      purpose:'favicon'
+      src: 'pwa-192x192.png',
+      sizes: '192x192',
+      type: 'image/png'
     },
     {
-      src:'/android-chrome-512x512.png',
-      sizes:'512x512',
-      type:'image/png',
-      purpose:'favicon'
+      src: 'pwa-512x512.png',
+      sizes: '512x512',
+      type: 'image/png',
+      purpose: 'any'  
     },
     {
-      src: '/apple-touch-icon.png',
-      sizes:'180x180',
-      type:'image/png',
-      purpose:'apple touch icon',
-    },
-    {
-      src: '/maskable_icon.png',
-      sizes:'512x512',
-      type:'image/png',
-      purpose:'any maskable',
+      src: 'maskable-icon-512x512.png',
+      sizes: '512x512',
+      type: 'image/png',
+      purpose: 'maskable'
     }
   ],
   theme_color:'#171717',
