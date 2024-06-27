@@ -500,6 +500,30 @@ const manifestForPlugIn = {
             sizes: '1024x1024',
             type: 'image/png',
             purpose:'any maskable'
+          },
+          {
+            src: '/android-chrome-192-192.png',
+            sizes:'192x192',
+            type:'image/png',
+            purpose:'favicon'
+          },
+          {
+            src:'/android-chrome-512-maskable_icon.png',
+            sizes:'512x512',
+            type:'image/png',
+            purpose:'favicon'
+          },
+          {
+            src: '/apple-touch-icon.png',
+            sizes:'180x180',
+            type:'image/png',
+            purpose:'apple touch icon',
+          },
+          {
+            src: '/maskable_icon-512x512.png',
+            sizes:'512x512',
+            type:'image/png',
+            purpose:'any maskable',
           }
         ],
     screenshots: [
