@@ -502,6 +502,19 @@ const manifestForPlugIn = {
             purpose: 'any'
           }
         ],
+    screenshots: [
+      {
+        src: 'screenshots/screenshot-wide.png',
+        sizes: '1280x720',
+        type: 'image/png',
+        form_factor: 'wide'
+      },
+      {
+        src: 'screenshots/screenshot-mobile.png',
+        sizes: '720x1280',
+        type: 'image/png'
+      }
+    ],
   theme_color:'#171717',
   background_color:'#f0e7db',
   display:"standalone",
